@@ -1,0 +1,410 @@
+# 1: General Player Information # {#general-player-information}
+===============================================================
+
+## 1.1: What is the Realms? ## {#what-is-the-realms}
+----------------------------------------------------
+
+The Realms is a medieval fantasy Live Action Role Playing (LARP) system (also
+known as The Realms of Wonder). This game has been in existence since the late
+1980s. The Realms has evolved considerably since its inception through the
+participation and imagination of more people than can be credited. Unlike most
+LARPs today, the Realms has a skill-based combat system, and is community-based
+rather than run by a single, static council or corporation.
+
+For those who are not familiar with what playing in a LARP entails, it is a lot
+like acting. The difference is that while the event staff sets the stage, the
+lines are all yours. You decide what “part” you want to play. Are you a mage, a
+warrior, a noble, or all of the above? Once you arrive at the event site you
+slip into your character. You stop acting like yourself and begin acting like
+your new persona. The Realms uses foam-padded “weapons” to simulate combat and
+has an intricate magic system to represent all sorts of things we wouldn’t be
+able to do in real life. The system is designed to help resolve situations that
+we cannot practically resolve on our own. Specifics of the Realms system will be
+discussed in more detail later on. You're in the Realms now and you'll never be
+quite the same again.
+
+## 1.2: What is This Book? ## {#what-is-this-book}
+--------------------------------------------------
+
+The document you are reading is the official rulebook to the Realms. Covered
+here you will find what you need to know about combat, magic, and other aspects
+of playing the game.
+
+Be sure to know the 2018 Omnibus rules, as well as any specific rules at each
+event you attend. At their events, an Event Holder (a player who volunteers to
+run an event, hereafter referred to as an EH) may choose to change some of the
+rules, including (among other things) announcing special weapon calls, defining
+special event-specific spells (Regional Magic), and allowing play-testing of new
+rules.
+
+The game rules and the rulebook are updated once a year by a council of EHs in
+order to make the game more fun, make the game safer, clarify existing rules,
+and encourage increased, improved role-playing. For more information on events
+and the Realms, visit <realmsnet.net>.
+
+## 1.3: How Do I Start Playing? ## {#how-do-i-start-playing}
+------------------------------------------------------------
+
+First off, read this rulebook. Read the whole thing. It is also a good idea to
+re-read the Omnibus each year so you can be up-to-date on rules modifications
+and changes that occur during the Event-Holders Council.
+
+Next, you will need to make a character (the role you play while at events).
+Characters are often referred to as Player Characters or PCs. This role will be
+the vehicle you experience the Realms through. Creating a character is old hat
+to many who have played tabletop role-playing games or other LARPs. If you are
+unfamiliar with creating a character or want some tips, see [Part 5: Character
+Creation.](#character-creation)
+
+After creating a PC, the best way to become acquainted with the Realms is to
+simply go to an event. Most people will be happy to explain to you what's going
+on. There is so much that can happen at an event that it is better experienced
+than explained. Attending practices is also helpful, as you not only become
+acquainted with the combat system, but also get introduced to other players.
+
+### Realms Events ###
+
+An event is where the game is played. There are basically three kinds of events
+in the Realms: Feasts, Tournaments, and Quests. Some events take on qualities of
+all the types, but are predominantly one of the three. Here is what to expect at
+each type:
+
+Feasts
+: Feasts, as the name implies, revolve around food. Political posturing and
+  court are often held at feast events. There is generally little combat at a
+  feast event, and they are usually held indoors in the wintertime. Bardics,
+  games of chance or skill, and other such activities can usually be found at
+  feasts. Feasts are often a good starting point for some players, particularly
+  those more interested in role-playing than in combat.
+Tournaments
+: Tournament events usually feature contests of both individual and team martial
+  skill. These are usually held as yearly events, and are generally a social
+  occasion. Players more interested in combat and less interested in
+  role-playing and magic find tournament events the best starting point for
+  their Realms careers.
+Quests
+: Quest events are the traditional style of event for saving damsels in
+  distress, finding and killing evil demons, and many other tasks. Nearly
+  anything can happen at a quest event.
+
+## 1.4: Attending an Event ## {#attending-an-event}
+---------------------------------------------------
+
+### Registration ###
+
+A list of events can be found on realmsnet.net under the Realms Calendar or the
+Events tab. Whenever you plan on attending an event, you should register for it
+through realmsnet.net as some events may have caps on how many players can
+attend, while others may have different registration requirements or pre-event
+information to disperse to players who are planning on attending. Registering
+for events also helps give the event staff an idea of how many players they
+might expect, and helps them to plan accordingly. It is also important to
+register any dietary or medical restrictions you may have.
+
+### Check In ###
+
+When you arrive at an event, there are a few things you must do before beginning
+play:
+
+### Event Fees ###
+
+You must pay any event fees; failure to do so means you will not be able
+participate in the event and may be asked to leave site. Some events will waive
+event fees for staff or NPCs (Non Player Characters) however, you must alway
+check with the event holder first. As event fees help pay for the site, props,
+prizes, food, and costuming that goes into throwing events, without them future
+events would not be able to occur.
+
+### Waivers ###
+
+You may be required to sign a waiver. Waivers serve two purposes: protection
+for the EH(s) or the land owners from legal action, and to keep track of how
+many people attended an event. Monitoring event attendance is the way for the
+Event Holders' Council to determine whether or not an event is legal (more on
+what makes a legal event in [Part 7: Realms
+Administration](#realms-administration)).
+
+### Magic Items ###
+
+Magic items must be checked in with the EH or the event's Magic Marshal (MM)
+before the start of the event. EHs and MMs must know about every magic item at
+an event, so that the event can be adjusted, if necessary. EHs and MMs have the
+right to fail or disallow any magic item at any time. Using a magic item at an
+event without first gaining approval by the EH or MM is cheating.
+
+### Magic ###
+
+Spellcasters must check their spellbook with the EH or the event's MM to find
+out whether any of their spells work differently at the event before they cast
+any of their spells. Spellcasters with Regional Magic (see [Regional
+Magic](#regional-magic)) also generally find out what their magic of the day is
+at check-in. Using spells at an event without first gaining approval by the EH
+or MM is cheating.
+
+### Weapon Inspection ###
+
+Before beginning play, you must inspect your own weapons before they are used.
+If you are unsure of a weapon's safety, ask a marshal to inspect it for you. EHs
+may require a designated marshal (referee) to inspect all weapons to make sure
+they are safe for use. There must always be someone at an event who can be asked
+to inspect weapons in case anyone does not feel comfortable inspecting their own
+weapons. If a weapon is deemed unsafe, it is to be removed from play or
+repaired.
+
+## 1.5: Alcohol Policy ## {#alcohol-policy}
+-------------------------------------------
+
+Alcohol is not permitted unless explicitly allowed by the Event Holder. An event
+advertised as damp or wet is informing attendants that alcohol is allowed in
+accordance with state and federal laws.
+
+# 2: Core Rules # {#core-rules}
+===============================
+
+## 2.1: Participant Rights ## {#participant-rights}
+---------------------------------------------------
+
+The Realms is committed to providing a space that feels as safe and inclusive as
+possible. Participants in the Realms have the out-of-character rights to
+personal safety and the expectation they will be treated with courtesy and
+respect by all other participants in the Realms. Participants have the right to
+bring concerns to a marshal or other responsible staff member with the
+expectation of having them investigated and appropriately addressed.
+
+Every player has an obligation to read and follow the rules of the Omnibus. EHs
+understand that the game can be complex and the first step in dealing with
+behavioral issues or cheating in most instances involves ensuring that the
+player understands the rules.
+
+However, if a rule is broken, or if there are repeated infractions, an EH may
+impose consequences on any participant(s) at their event. These may include a
+formal warning; removal from specific sections of an event; removal from an
+event; not being allowed to use specific weapons, spells, or items; or
+prosecution for violations of Federal and/or State law. If you are removed from
+an event for rules violations, the EH is not obligated to refund your event fee.
+
+If an EH subjects a player to a consequence at their event they should notify
+all other EHs of this via the Event Holders' List. The player involved must
+receive a copy of this notification and may send a formal response. People who
+want to bring formal charges should report such charges to the Arbitration
+Committee (<arbitration@lists.realmsnet.net>). In addition, any participant that
+feels wrongful action was taken against them can bring the issue before the
+Arbitration Committee (see [Section 7.3](#arbitration-committee).
+
+An EH may opt to not allow a player who has a history of breaking rules to
+attend their events, provided that player is notified in advance.
+
+Event Holders have an obligation to take reports of rules violations at their
+events seriously. Having an additional person present during the reporting is
+strongly encouraged. If you report a violation to the EH of an event and are
+ignored or no reasonable action is taken, bring the situation to the attention
+of the Arbitration Committee. Event Holders who have a history of disregarding
+reports of rules violations, or who do not address especially serious reports
+may face penalties including, but not limited to, temporary loss of EH status,
+un-backing of that EH’s magic item(s), revocation of an event’s legal status,
+and/or being banned from holding future events.
+
+Reports of rules violations to be submitted after the conclusion of an event
+should be submitted to the AC.
+
+## 2.2: Code of Conduct ## {#code-of-conduct}
+---------------------------------------------
+
+Anyone can report harassment or abuse. If someone’s behavior towards you has
+violated your rights as a participant, or if you witness the same happening to
+someone else, immediately report the incident to the event’s EH.
+
+If you have reason to believe rules regarding the Code of Conduct may be
+violated at an event, you should notify the Event Holder prior to the event
+occurring.
+
+The following list is not meant to be exhaustive, and any non-consensual
+violations of a participant’s rights should be considered a violation of the
+rules.
+
+Any of the following constitute grounds for punitive action:
+* Violating any federal, state, or local laws, facility rules, or event
+  policies;
+* Failure to comply with the instructions of the Event Holder or designated
+  marshal;
+* Using anything in an out-of-character threatening or destructive manner
+  against person or property;
+* Endangering the safety of oneself or others;
+* Stealing (People’s tents, bags, packs, pouches, and possessions are completely
+  off-limits and out-of-play. There are no exceptions, even if officially
+  in-play items are concealed therein);
+* Drinking alcohol under the age of 21, or providing alcohol to those under age
+  21;
+* Physical or verbal intimidation or abuse;
+* Stalking;
+* Inappropriate physical contact or proximity. Any form of unwanted physical
+  contact is strictly forbidden;
+* Non-consensual sexual acts (a person under the age of consent cannot consent
+  to sexual acts);
+* Inappropriate sexual attention, whether verbal or physical, or continued
+  attention after being asked to stop (sexual attention towards those legally or
+  physically unable to consent is always inappropriate, this includes people
+  under the age of consent);
+* Harassment for any reason, including out-of-game attributes such as race,
+  weight, sexual orientation, gender identity, religion, or disability.
+
+Role-play can never be used as an excuse for any of these behaviors. If you are
+informed that your role-playing is OOC unsafe, threatening, or is not consented
+to by other participants you should stop immediately and find another way to
+play out the scene.
+
+## 2.3: The Safety Rules ## {#the-safety-rules}
+-----------------------------------------------
+
+The safety rules are out-of-character (hereafter referred to as OOC). They are
+for our safety, and provide the guidelines that we should all be playing by.
+
+### The Rules We Play By ###
+
+1. We should all be doing this to have fun. If you get mad or uncontrolled, it
+   is up to you to remove yourself from the game until you have regained your
+   composure.
+#. This is a sport of personal honor; treat it as such. You are responsible for
+   keeping track of many aspects of this game, such as weapon blows and known
+   spells. Failure to report or accurately respond to any of these aspects is
+   cheating and a stain on your personal honor.
+#. You must listen to the marshals at all times; they are the referees. If you
+   are caught breaking the rules, a marshal may remove you from all or part of
+   that event.
+#. Report any safety concerns to a marshal immediately. If you have any
+   questions, it is up to you to ask.
+#. HOLD: If you see a harmful or unsafe situation (e.g., someone is about to run
+   into a tree, gets their glasses knocked off, has had their weapon really
+   broken in combat, is about to fall off a cliff, etc.) yell the word "Hold."
+   If someone is injured, it is the primary responsibility of the person who is
+   hurt to call a Hold. Before calling a Hold for someone else in an otherwise
+   safe situation, you must first ask if they are all right. Holds should only
+   be called in the event of a dangerous situation, and should never be used to
+   discuss the rules. If you hear the word "Hold," stop immediately, then say
+   "Hold" until everyone else has stopped moving. Once the emergency has been
+   dealt with, a "Lay-On" (continue play) will be called either by a qualified
+   marshal, or the person who originally called the Hold. Do not resume play
+   until a Lay-On has been called.
+#. Only weapons and shields that have been made following the construction
+   guidelines (see [Section 3.8: Weapon Construction](#weapon-construction)) are
+   to be used. Weapons should be checked between combat situations to ensure
+   continued safety. A qualified marshal may be requested to check the safety of
+   any weapons or shields at any time. Any new designs or materials must be
+   inspected and approved by the EH or a designated marshal before use.
+#. There is to be NO real steel in any combat situation, or in any potential
+   combat situation, at any time. Real steel is defined as metal knives, swords,
+   axes, darts, spikes, spurs, etc. - anything that could really hurt a
+   participant. Real steel that is sheathed is still a potential hazard.
+#. Acts considered unlawful in the real world, such as theft of non-game items
+   or assault, are also unlawful in the Realms. For the safety of all
+   participants, any form of unwanted physical contact is strictly forbidden.
+#. Any spell props, weapon props, or materials not specifically allowed within
+   the Omnibus must be inspected and approved by the EH or a designated marshal
+   before they are used.
+#. While the wording of the game rules may occasionally be less than clear,
+   players should not use any such confusion to their own advantage. A simple
+   guideline is to not assume any benefits unless they are specifically granted
+   by a rule. If you feel that the way a rule is written grants you an advantage
+   by omission of a statement to the contrary, you must review that rule with a
+   marshal or EH prior to utilizing that advantage. While this document has a
+   lot of general rules (such as [Section 6.1: Basic Magic Effects Everyone
+   Should Know](#basic-magic-effects-everyone-should-know)), any specific rule
+   will always override these general rules.
+
+### The Rules We Fight By ###
+
+11. This is a lightest touch sport. ANY contact with a weapon to a body is to be
+    taken as a hit. Ignoring a "light" blow is cheating and a marshal may remove
+	you from the fight. There are to be NO full-strength swings. A marshal may
+	remove you for excessive blow strength. Weapons, melee and missile, should
+	be used with the minimum force necessary to score a successful hit.
+#.  The face (eyebrows to chin) and throat area are "off-target." Do not aim for
+    these areas. You may choose not to accept a blow that hits you solely in
+	these areas, but you must call the location that was hit. For instance, if
+	you are hit in the face, call "Face," and keep fighting if you wish. This
+	alerts both the other combatant and the marshal that you have taken an
+	illegal blow. It is not unusual for shots to an off-target area to also
+	strike legitimate areas in the same strike. You must take all legal blows,
+	even if an off-target area was hit by the same strike. For example, a shot
+	thrown at your head may hit your face if you pull back, but if it touches
+	your forehead in the process, that is a legal blow.
+#.  In combat, there is to be contact with weapons only (e.g., weapons hitting
+    weapons, weapons hitting bodies, and weapons hitting shields only). There is
+	to be NO body contact of any kind (e.g., no shoving, punching, kicking,
+	biting, grabbing, etc.). Do NOT grab an opponent's weapons and/or shield.
+#.  Do NOT charge. Charging is defined as running at someone so that they have
+    to get out of your way to avoid illegal contact.
+#.  Shields are for blocking ONLY. Your shield should never be used as a weapon.
+    Shield-bashing or other shield contact with another person is unsafe.
+#.  Pommels, no matter how padded, are not legal striking surfaces. Do not punch
+    or thrust with the pommel of a weapon.
+#.  Do NOT ever throw a weapon at a participant, unless that weapon is of a type
+    (magic missile, javelin, or lightning bolt) sanctioned by the rules for
+	throwing. No thrown weapon or missile weapon should strike a participant
+	above the shoulders.
+#.  Arrows should be drawn with minimal pull necessary to score a successful
+    hit. Bows should NEVER be used to parry an attack. As with thrown weapons,
+	arrows should not strike a participant above the shoulders.
+
+# 3: Combat in the Realms # {#combat-in-the-realms}
+===================================================
+
+## 3.1: The Combat System ## {#the-combat-system}
+-------------------------------------------------
+
+The Realms uses a lightest-touch system for its combat system. That means that
+no matter how lightly your opponent may touch you with their weapon, you have to
+take the shot. This is to keep the sport friendly, so that everyone can play.
+This system does not allow for "scratches" or "light blows" - you must take
+these shots as normal blows. In all cases, the phrase, "if you are struck,"
+refers to any time you are struck by the padded surface of any weapon or spell
+prop that does damage as a weapon.
+
+### Hit Locations ###
+
+Your body is separated into seven locations of which there are two kinds. Your
+arms and legs are "limbs," while your head and the front and back of your torso
+are "kill locations." If you become confused about exactly where one location
+stops and another begins, thinking of a Barbie™ doll may help. The buttocks of a
+person are considered leg shots. If you are hit in the buttock(s), you lose the
+appropriate leg(s).
+
+### Killing Blows ###
+
+If you are struck in a kill location your PC is dead (see [Section 3.4:
+Character Death](#character-death) and [Section 3.5: Scalping](#scalping) for
+more details).
+
+If you are hit on the top of the shoulder, your PC is dead. If you are wearing
+armor, a blow to the top of the shoulder is considered a blow to the front or
+back depending on whether your opponent is in front of you or behind you.
+
+### Limb Shots ###
+
+If you are struck in a limb, your PC loses the use of that entire limb. If you
+are struck in a limb that has already been lost, and that limb blocked what
+could have possibly been a legal shot to another location, then that location
+should be considered hit. You cannot protect the side of your PC's body with a
+disabled arm or by lifting a disabled leg up to block. Once your PC's limb has
+been disabled, it should be put behind you. This keeps it out of the way as well
+as provides a visual cue to other players that your PC is hurt. Once you have
+lost a limb, your PC cannot use that limb at all. Don't limp on a damaged leg.
+
+### Hand-on-Weapon ###
+
+If you are struck on a hand that is holding anything that is legal to block or
+parry with (weapons and shields, but not bows, javelins or arrows), it is
+considered gauntleted and immune to damage. When this happens, call out "Hand"
+or "Hand-on-weapon." If you are struck on a hand that is not holding anything
+you can parry with, even if you have just taken it off for a second, it is
+considered a legal limb shot and your PC has to suffer the consequences. Your
+hand is considered everything below the wrist bone.
+
+### How to Take Multiple Hits ###
+
+Should an opponent's weapon (be it a melee weapon, missile weapon, or spell
+prop) hit you in more than one location with the same swing, all points of
+contact count as hits.
+
+## 3.2: Combat Etiquette ## {#combat-etiquette}
+-----------------------------------------------
