@@ -1,12 +1,8 @@
 ﻿% 2018 Realms Omnibus
-% 2018 Realms OEC
-% March 22, 2018
 
 # 1: General Player Information # {#general-player-information}
-===============================================================
 
 ## 1.1: What is the Realms? ## {#what-is-the-realms}
-----------------------------------------------------
 
 The Realms is a medieval fantasy Live Action Role Playing (LARP) system (also
 known as The Realms of Wonder). This game has been in existence since the late
@@ -28,7 +24,6 @@ discussed in more detail later on. You're in the Realms now and you'll never be
 quite the same again.
 
 ## 1.2: What is This Book? ## {#what-is-this-book}
---------------------------------------------------
 
 The document you are reading is the official rulebook to the Realms. Covered
 here you will find what you need to know about combat, magic, and other aspects
@@ -47,7 +42,6 @@ and encourage increased, improved role-playing. For more information on events
 and the Realms, visit [realmsnet.net](www.realmsnet.net).
 
 ## 1.3: How Do I Start Playing? ## {#how-do-i-start-playing}
-------------------------------------------------------------
 
 First off, read this rulebook. Read the whole thing. It is also a good idea to
 re-read the Omnibus each year so you can be up-to-date on rules modifications
@@ -94,7 +88,6 @@ Quests
   anything can happen at a quest event.
 
 ## 1.4: Attending an Event ## {#attending-an-event}
----------------------------------------------------
 
 ### Registration ###
 
@@ -158,17 +151,14 @@ weapons. If a weapon is deemed unsafe, it is to be removed from play or
 repaired.
 
 ## 1.5: Alcohol Policy ## {#alcohol-policy}
--------------------------------------------
 
 Alcohol is not permitted unless explicitly allowed by the Event Holder. An event
 advertised as damp or wet is informing attendants that alcohol is allowed in
 accordance with state and federal laws.
 
 # 2: Core Rules # {#core-rules}
-===============================
 
 ## 2.1: Participant Rights ## {#participant-rights}
----------------------------------------------------
 
 The Realms is committed to providing a space that feels as safe and inclusive as
 possible. Participants in the Realms have the out-of-character rights to
@@ -214,7 +204,6 @@ Reports of rules violations to be submitted after the conclusion of an event
 should be submitted to the AC.
 
 ## 2.2: Code of Conduct ## {#code-of-conduct}
----------------------------------------------
 
 Anyone can report harassment or abuse. If someone’s behavior towards you has
 violated your rights as a participant, or if you witness the same happening to
@@ -260,7 +249,6 @@ to by other participants you should stop immediately and find another way to
 play out the scene.
 
 ## 2.3: The Safety Rules ## {#the-safety-rules}
------------------------------------------------
 
 The safety rules are out-of-character (hereafter referred to as OOC). They are
 for our safety, and provide the guidelines that we should all be playing by.
@@ -353,10 +341,8 @@ for our safety, and provide the guidelines that we should all be playing by.
 	arrows should not strike a participant above the shoulders.
 
 # 3: Combat in the Realms # {#combat-in-the-realms}
-===================================================
 
 ## 3.1: The Combat System ## {#the-combat-system}
--------------------------------------------------
 
 The Realms uses a lightest-touch system for its combat system. That means that
 no matter how lightly your opponent may touch you with their weapon, you have to
@@ -413,7 +399,6 @@ prop) hit you in more than one location with the same swing, all points of
 contact count as hits.
 
 ## 3.2: Combat Etiquette ## {#combat-etiquette}
------------------------------------------------
 
 Combat is an important part of the game. In order to make the game more fun for
 everyone, combat etiquette, which is OOC, has been developed. Using combat
@@ -491,7 +476,6 @@ are not a safe and controlled fighter, and you may be asked to sit out by a
 marshal.
 
 ## 3.3: Armor ## {#armor}
--------------------------
 
 ### Types of Armor ###
 
@@ -550,7 +534,6 @@ shots to the armor on your front torso, back torso, and your other leg before
 the armor in those locations is completely destroyed.
 
 ## 3.4 Character Death ## {#character-death}
---------------------------------------------
 
 As players experience the game through the eyes of their characters, PC death
 becomes an important aspect of the game.
@@ -604,7 +587,6 @@ character is dead and want the character to be, tap the player gently in a kill
 location.
 
 ## 3.5: Scalping ## {#scalping}
--------------------------------
 
 Scalping is the removal of a character's life essence through mutilation of the
 body. It is a more serious form of death that requires more than a simple spell
@@ -665,7 +647,6 @@ raise them. A different spellcaster must provide each [Raise Dead](#raise-dead)
 spell used for this purpose.
 
 ## 3.6: Permanent Death ## {#permanent-death}
----------------------------------------------
 
 When a PC is dead and scalped at the end of an event at which they were at some
 point alive, they get a "tick." PCs may also receive ticks due to use of certain
@@ -685,7 +666,6 @@ keep track of this information. The current Death Marshal is Keith Cronyn who
 can be reached at <Keith.Cronyn@gmail.com> or at 603-819-8689.
 
 ## 3.7: Weapon Rules ## {#weapon-rules}
----------------------------------------
 
 Players are responsible for being safe with the weapon(s) they are using. Before
 using a weapon style in-game, players should take it upon themselves to be
@@ -823,7 +803,6 @@ if they received an illegal hit from an arrow or javelin.The length of javelins
 and arrows are not subject to a spellcaster's weapon restriction.
 
 ## 3.8: Weapons Construction ## {#weapon-construction}
-------------------------------------------------------
 
 There are several ways to make weapons in the Realms. If you are playing for the
 first time, it might be a better idea to borrow weapons than try to make any of
@@ -854,10 +833,10 @@ Be sure to follow these guidelines when constructing a weapon:
 | 12" - 44"    | 3/4" bamboo or fiberglass | 1 3/4"     | 1/4"      | Not Required | Half of weapon\ |
 |              |                           |            |           |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
-| >44" - 60"   | 3/4", or 1" PVC           | 1 3/4"     | Not\      | Not Required | Half of weapon\ |
+| \>44" - 60"  | 3/4", or 1" PVC           | 1 3/4"     | Not\      | Not Required | Half of weapon\ |
 |              |                           |            | Required  |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
-| >44" - 60"   | 3/4" bamboo or fiberglass | 1 3/4"     | 1/4"      | Not Required | Half of weapon\ |
+| \>44" - 60"  | 3/4" bamboo or fiberglass | 1 3/4"     | 1/4"      | Not Required | Half of weapon\ |
 |              |                           |            |           |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
 | Spears\      | 3/4", or 1" PVC           | 2 1/4"     | 1/4"      | 2"           | One-third\      |
@@ -866,10 +845,10 @@ Be sure to follow these guidelines when constructing a weapon:
 | Spears\      | 1/2" bamboo               | 2.5" *     | 1/4"      | 3"           | One-third\      |
 | (48" - 60")  |                           |            |           |              | weapon length   |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
-| >60" - 78"\  | 3/4", or 1" PVC           | 2 1/4"     | Not\      | 2"           | Half of weapon\ |
+| \>60" - 78"\ | 3/4", or 1" PVC           | 2 1/4"     | Not\      | 2"           | Half of weapon\ |
 | (6'6")       |                           |            | Required  |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
-| >60" - 78"\  | 3/4" bamboo or fiberglass | 2 1/4"     | 1/4"      | 2"           | Half of weapon\ |
+| \>60" - 78"\ | 3/4" bamboo or fiberglass | 2 1/4"     | 1/4"      | 2"           | Half of weapon\ |
 | (6'6")       |                           |            |           |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
 | Pikes\       | 1" PVC                    | 2 1/4"     | 1/4"      | 2"           | One-third\      |
@@ -931,7 +910,7 @@ from the tip
   "larp safe" or "archery tag safe".
 
 
-**Lightning Bolts** {#lightning-bolt-construction}
+[**Lightning Bolts**]{#lightning-bolt-construction}
 
 A Lightning Bolt prop is an arrow or javelin made with the following additional
 details:
@@ -958,7 +937,6 @@ details:
 * The word "Javelin" must also be written on the side of the weapon.
 
 ## 3.9: Shield Construction ## {#shield-construction}
------------------------------------------------------
 
 * Shields must be at least 12" long (as measured by the longest dimension). A
   shield may be as large as you like, but you as an individual must be able to
@@ -969,7 +947,6 @@ details:
   or bolts should also be padded.
 
 ## 3.10: Equipment Inspections ## {#equipment-inspections}
-----------------------------------------------------------
 
 You must inspect any armor, weapon, or shield before using it. If you are unsure
 about an item's safety, ask a marshal and they will inspect it for you. Any item
@@ -1004,7 +981,6 @@ breaking down or have been compacted. The EH or marshal retains final ruling on
 the approval for use of a weapon.
 
 ## 3.11: Combat Calls ## {#combat-calls}
-----------------------------------------
 
 Combat calls are what you may hear yelled in combat, and you must know how these
 calls affect your PC.
@@ -1129,4 +1105,3 @@ hit with a silver blow. Being hit by silver doesn't affect your PC any
 differently than being hit by a normal weapon.
 
 # 4: Non-Combat Interactions # {#non-combat-interactions}
-=========================================================

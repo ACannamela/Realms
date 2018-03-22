@@ -2,4 +2,4 @@
 
 To compile a new version of Omnibus.html, run
 
-    pandoc -s -o Omnibus.html Omnibus.md
+    pandoc -o Omnibus.html -s -c pandoc.css Omnibus.md
