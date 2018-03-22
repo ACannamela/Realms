@@ -1106,3 +1106,277 @@ hit with a silver blow. Being hit by silver doesn't affect your PC any
 differently than being hit by a normal weapon.
 
 # 4: Non-Combat Interactions # {#non-combat-interactions}
+
+## 4.1: In-Character and Out-of-Character ## {#in-character-and-out-of-character}
+
+### Being In-Character ###
+
+Generally, events officially begin after the safety rules, any specific site
+rules, and other special event rules have been read aloud to the gathered
+players.
+
+Once an event has begun, you are expected to be in-character (IC) at all times.
+This means that you are playing your PC the whole time you are at an event.
+Staying IC can add greatly not only to your own event experience, but to those
+who are playing the game around you. When a companion of your PC is "killed" it
+adds to the tension and drama of the scene if they pretend they are dead, but it
+breaks the mood completely if they are laughing and making comments.
+
+Your character may feel differently than you do about something, like slavery,
+magic, politics, or religion. You may be a pacifist, while your character is a
+bloodthirsty barbarian. If you can remain true to the character, despite your
+differences, you can make a memorable story for yourself and those around you.
+Sometimes staying IC is challenging, especially when you know something that
+your character shouldn't logically know, but you should try to remain IC when
+playing. Likewise, when the game is done, leave your character behind.
+
+### Breaking Character ###
+
+Once an event has begun, breaking character should be done only when necessary.
+If you must do so, what you say should be prefaced with "Out-of-character," as
+in "Out-of-character, where is the tenting area?" That way, the person you are
+addressing knows that it is a real-world concern, and should be dealt wit
+ differently than a strictly IC concern.
+
+Sometimes when players get really into character, you may begin to wonder
+whether animosity or other emotions are completely IC. It is acceptable to break
+character to make sure everything is in fact still IC and no one's feelings are
+getting hurt OOC.
+
+### Out-of-Character-Only Terms ###
+
+There are a few terms that should only be used when speaking OOC: “Hold” and
+“Medic.” Hold is only used in emergencies as it stops the game. Read [Section
+2.3: The Safety Rules](#the-safety-rules) for more information on the correct
+use of the word Hold. Medic is used when someone needs immediate real-world
+medical attention for any reason: an allergic reaction to a bee-sting, a twisted
+ankle, an asthma attack, etc. Do not call “Medic” for imaginary (IC) injuries.
+If you need IC medical attention, call "Healer!"
+
+### Out-of-Play Areas and Time-Out ###
+
+The EH has the option of declaring portions of the event site as "out-of-play"
+for safety reasons or for NPC use. Never use these out-of-play areas as safe
+havens.
+
+If a fight breaks out in an area that is unsafe to fight in or that is
+out-of-play, then the fight should be moved to a safe in-play area. If you are
+in such an area, you may be asked to leave said area for combat. If you refuse
+to leave the unsafe area, your PC is considered dead. After the fight, those
+involved can move back to where the fight "really" took place, and continue on.
+
+An EH is free to create an in-game safe area if they choose. For example,
+powerful enchantments on the tavern may render weapons and hostile magic
+inoperable within the tavern walls. In this case, it is fine for players to hide
+there, since they will be taking advantage of an in-game effect.
+
+EHs may also declare a time-out during an event for sleep, dinner, etc. While on
+an event site, if you are not acting as an NPC at the EH's request, or you are
+not in a time-out, a character is liable to be attacked, and their possessions
+open to theft.
+
+## 4.2: Dragging ## {#dragging}
+
+To drag a dead, unconscious, or otherwise incapacitated body in our game, you
+must place a hand on the shoulder, back, or arm of the body and say "Drag." The
+player being dragged must then get up and walk with you, bringing what they are
+carrying with them. Stealable items stay on a dragged corpse unless explicitly
+searched off. A dragged body is considered one-handed and may not be used as a
+weapon or a shield. At any time you may tell the dragged player "Drop," thereby
+letting go of the player and dropping them on the ground. A body being dragged
+can never be "thrown" or "tossed." If the person dragging the body lets go, then
+the body should drop in place.
+
+## 4.3: Searching and Theft ## {#searching-and-theft}
+
+There are certain items that are referred to as being "Stealable." Some examples
+of stealable items are magic items, magic weapons, Realms currency, silver
+weapons, and occasionally non-magical items. With the exception of currency, the
+word "Stealable" is likely written somewhere on the object.
+
+Players must assume that any props or items used by event staff are not
+stealable unless labeled as such or told otherwise by event staff.
+
+### Searching ###
+
+Searching is a touchy subject. In the real world, if a bandit has just killed
+someone they can just take everything they own. In the Realms, an object has to
+be considered stealable to be taken from a person or location without the
+owner's permission. The problem is that often these stealable items are not
+easily recognizable, especially the smaller items. Also, while "secret pockets"
+and such seem like a good idea at first, frisking a dead character could be
+considered a form of harassment towards the player and should be avoided. To
+handle this situation, the searching rule exists.
+
+The searching rule is verbose because there have been a lot of problems about
+searching in the past. The rule is mostly common sense. Once you think about it,
+it will seem quite simple. There are two ways you can search someone, using a
+Point Search or Full Search.
+
+### Point Search ###
+
+To simulate ransacking a character's pouches, weapons, and clothing quickly, a
+player can "point search." Essentially, the searcher says "Search" and tells the
+victim where they are searching (e.g., "I search your pouch.") If there are
+stealable items in the area being searched, then all the items in that area are
+handed over immediately. The area that a person point-searches cannot be any
+larger than one hit location on the body (e.g., you would have to search each
+sleeve of a shirt and the front and back of a shirt to search everywhere inside
+the shirt). Pockets and pouches have to be pointed out to be searched. You
+cannot say "I'm searching all your pockets," you have to search each one
+individually; left and right sleeves, boots, gloves, etc., all have to be
+searched separately, one at a time. Only one person can point search a victim at
+a time. Point searching does not wake up an unconscious character.
+
+### Full Search ###
+
+The other way to search someone is to simulate taking your time to do it
+thoroughly. That is, the character simulates stripping the body from head to
+toe, ripping everything to shreds, garnering every last item you own, etc. In
+order to do this the searcher simply says "Full search." Every stealable item
+the victim has must be handed over to the searcher. The characters should take
+120 seconds to do this. If so, then the items should be considered the IC
+possessions of the searching character. Full searching will wake up an
+unconscious character.
+
+If someone full-searches a character and a different character comes by during
+that time and point-searches the victim, the full search is stopped and the
+point search is resolved. If a character does not specify what kind of search
+they are performing, then it is assumed that they are performing a point search.
+If told only that they are being searched, the player whose character is being
+searched must assume it is a point search and respond, "Where?"
+
+### Realms Thieves ###
+
+The only objects that are always in-play, are fair game for theft, and can be
+stolen without consulting the bearer of the object, are those considered
+stealable in-game (see [Section 4.4: In-Game Items](#in-game-items), below). In
+order to steal any other object, you must have the explicit permission of the
+owner/bearer before making the theft. This means that to steal another PC's
+jewelry (assuming that some of it is considered treasure), you must ask the
+person who plays that PC. One way to do this is to kill or flat the character
+and tell them that you are searching them. If they have anything that is
+in-play, they must show it to you, for you to take or leave as you wish. You
+should never pick up something off a table or from in front of someone's tent,
+unless it is a magic or silver weapon, or Realms currency.
+
+It should be restated that people's tents, bags, packs, and pouches are
+completely off-limits and out-of-play. No matter how many magic or silver
+weapons, or how much Realms currency someone might have, you may never, under
+any circumstances, enter their tent or go into their bags, packs, or pouches and
+take anything out without the owner's explicit permission.
+
+A magic item is the property of the EH that created it. It is the EH's will that
+the item be able to be circulated around the Realms by theft, as a gift, as part
+of an inheritance, or any other means so long as it occurs at an event.
+
+IC theft, not gift, of stealable items in OOC situations, not at an event, is
+not acceptable and will not be upheld.
+
+## 4.4: In-Game Items ## {#in-game-items}
+
+### Currency ###
+
+Various groups and nations issue different currencies for use as treasure and to
+pay for goods and services in-game. These currencies are often represented by
+stamped metal disks or roofing tins, sometimes bearing printed stickers for
+identification or are minted in metals, plastic or even clay. In-game these
+currencies usually represent Gold or Silver. Denominations vary from currency to
+currency. Generally ten silver pieces are worth one gold piece. The more prized
+issues are backed, meaning that if you accumulate enough of any one currency,
+you can trade those coins in to the issuer for goods, weapons, or services. Many
+older coinages and silver pieces are not backed, and while they're still
+in-play, many people either heavily discount them or don't accept them at all.
+Issues and worth of coins fluctuate. If you're in doubt as to what a coin is
+worth, ask the merchants and the gamblers. Realms currency cannot be
+counterfeited; to do so is cheating.
+
+### Silver Weapons ###
+
+Silver weapons are created by players with the spell [Reforge](#reforge) or are
+released by EHs.
+
+### Magic Items and Magic Weapons ###
+
+All magic items and magic weapons are stealable.
+
+Magic weapons must be made with a blue-colored striking surface, so that they
+are distinctive. No permanent magic item may be issued by anyone except an EH
+(see [Section 7: Realms Administration](#realms-administration) for more
+information).
+
+Should a magic item or weapon become broken or disenchanted at an event, it
+requires a repair through the [Reforge](#reforge) spell to return to a
+functioning state. Additionally, magic items which have been revoked by their
+EH/creator are no longer considered magic items and also revert back to the EH
+who created them. Magic weapons that are currently in existence may be re-bladed
+without the use of a [Reforge](#reforge) spell, to repair safety issues, by
+first contacting and gaining permission from the issuing or backing EH.
+
+### Event-Stealable ### {#event-stealable}
+
+The props for certain spells and items as designated by the EH are considered
+"Event-Stealable," meaning that they are stealable treasure during an event, but
+should be returned to their OOC owner when you leave an event. Before you leave
+an event site, you must return (to the best of your ability) any items marked as
+"Event-Stealable" to the EH or MM. Props for PC spells are returned by the EH or
+MM as an OOC courtesy, and will be done so without revealing the identity of the
+thief. If you have a spell that has an event-stealable prop as a component, you
+may replace it without penalty at the next event if it is not returned to you
+for whatever reason. You can never declare permanently stealable items as
+event-stealable.
+
+# 5: Character Creation # {#character-creation}
+
+## 5.1: The Social Structure ## {#the-social-structure}
+
+The Realms is not governed by a single kingdom. Each nation has its own
+hierarchy and structure. There are no hard rules for governing the social
+structure. Claiming land and titles is anyone's prerogative. The social
+structure really only has one rule: if you can back up your title or claim then
+you deserve to hold it. If you can't, then you should have nothing to complain
+about if you get put in your place.
+
+## 5.2: Creating a Character ## {#creating-a-character}
+
+If you are already familiar with role-playing in general, or with live action
+role-playing specifically, you probably already know how to make a character. If
+you are new to the concept of role-playing, the following questions might help
+you establish the traits and characteristics of your PC. You should try to
+answer the questions for yourself, but some suggestions are provided.
+
+_What is your character's species?_ There are as many species available in the
+Realms as there are minds to create them. In the Realms, there are no
+restrictions on what species you can play. The only rule is that you may gain no
+special benefits or specialized abilities for playing a certain race or person
+(the only way to gain supernatural powers is through legally released items,
+the spell system, or by being appointed a _Knight of the Realms_ or a _Knight
+of the Eternal Flame_). If you create your own "race," you would do well to
+consider its mannerisms, average age, codes of ethic, etc. Of course humans are
+the easiest to play, since you are probably human.
+
+_What is your character's age?_ If you are playing a human character, it is
+usually best to pick an age near your own. Other species may have different
+average ages.
+
+_Why is your character an adventurer?_ Most people of the Realms prefer the
+relatively safe life of a farmer or craftsman. Why has your character left home
+to join in the rather hazardous occupation of hero? The answer to this might
+give you some valuable insight into the persona of your character.
+
+_What is your character's background?_ There is no limit on where your character
+came from. As was stated before, your character can come from anywhere, so long
+as they gain no IC benefits from it.
+
+_Does your character have a lifetime goal, dream, or driving force?_ Goals
+define characters well, and how far they are willing to go to attain that goal
+rounds them off.
+
+## 5.3: Fighters ## {#fighters}
+
+Fighters are capable of using any weapon style, to the limits of the [Wielding
+Weapons](#wielding-weapons) section. They may use up to 2-point armor (heavy
+armor) for each hit location. They are not considered enchanted beings unless
+stated in the [Enchanted Beings Caveat](#enchanted-beings).
+
+## 5.4: Being a Realms Spellcaster ## {#being-a-realms-spellcaster}
