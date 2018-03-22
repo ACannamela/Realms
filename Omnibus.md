@@ -1,8 +1,8 @@
 ﻿% 2018 Realms Omnibus
 
-# 1: General Player Information {#general-player-information} #
+# 1: General Player Information # {#general-player-information}
 
-## 1.1: What is the Realms? {#what-is-the-realms} ##
+## 1.1: What is the Realms? ## {#what-is-the-realms}
 
 The Realms is a medieval fantasy Live Action Role Playing (LARP) system (also
 known as The Realms of Wonder). This game has been in existence since the late
@@ -23,7 +23,7 @@ we cannot practically resolve on our own. Specifics of the Realms system will be
 discussed in more detail later on. You're in the Realms now and you'll never be
 quite the same again.
 
-## 1.2: What is This Book? {#what-is-this-book} ##
+## 1.2: What is This Book? ## {#what-is-this-book}
 
 The document you are reading is the official rulebook to the Realms. Covered
 here you will find what you need to know about combat, magic, and other aspects
@@ -41,7 +41,7 @@ order to make the game more fun, make the game safer, clarify existing rules,
 and encourage increased, improved role-playing. For more information on events
 and the Realms, visit [realmsnet.net](www.realmsnet.net).
 
-## 1.3: How Do I Start Playing? {#how-do-i-start-playing} ##
+## 1.3: How Do I Start Playing? ## {#how-do-i-start-playing}
 
 First off, read this rulebook. Read the whole thing. It is also a good idea to
 re-read the Omnibus each year so you can be up-to-date on rules modifications
@@ -87,7 +87,7 @@ Quests
   distress, finding and killing evil demons, and many other tasks. Nearly
   anything can happen at a quest event.
 
-## 1.4: Attending an Event {#attending-an-event} ##
+## 1.4: Attending an Event ## {#attending-an-event}
 
 ### Registration ###
 
@@ -131,7 +131,7 @@ an event, so that the event can be adjusted, if necessary. EHs and MMs have the
 right to fail or disallow any magic item at any time. Using a magic item at an
 event without first gaining approval by the EH or MM is cheating.
 
-### Magic {#magic-check-in} ###
+### Magic ### {#magic-check-in}
 
 Spellcasters must check their spellbook with the EH or the event's MM to find
 out whether any of their spells work differently at the event before they cast
@@ -150,15 +150,15 @@ to inspect weapons in case anyone does not feel comfortable inspecting their own
 weapons. If a weapon is deemed unsafe, it is to be removed from play or
 repaired.
 
-## 1.5: Alcohol Policy {#alcohol-policy} ##
+## 1.5: Alcohol Policy ## {#alcohol-policy}
 
 Alcohol is not permitted unless explicitly allowed by the Event Holder. An event
 advertised as damp or wet is informing attendants that alcohol is allowed in
 accordance with state and federal laws.
 
-# 2: Core Rules {#core-rules} #
+# 2: Core Rules # {#core-rules}
 
-## 2.1: Participant Rights {#participant-rights} ##
+## 2.1: Participant Rights ## {#participant-rights}
 
 The Realms is committed to providing a space that feels as safe and inclusive as
 possible. Participants in the Realms have the out-of-character rights to
@@ -203,7 +203,7 @@ and/or being banned from holding future events.
 Reports of rules violations to be submitted after the conclusion of an event
 should be submitted to the AC.
 
-## 2.2: Code of Conduct {#code-of-conduct} ##
+## 2.2: Code of Conduct ## {#code-of-conduct}
 
 Anyone can report harassment or abuse. If someone’s behavior towards you has
 violated your rights as a participant, or if you witness the same happening to
@@ -218,6 +218,7 @@ violations of a participant’s rights should be considered a violation of the
 rules.
 
 Any of the following constitute grounds for punitive action:
+
 * Violating any federal, state, or local laws, facility rules, or event
   policies;
 * Failure to comply with the instructions of the Event Holder or designated
@@ -248,7 +249,7 @@ informed that your role-playing is OOC unsafe, threatening, or is not consented
 to by other participants you should stop immediately and find another way to
 play out the scene.
 
-## 2.3: The Safety Rules {#the-safety-rules} ##
+## 2.3: The Safety Rules ## {#the-safety-rules}
 
 The safety rules are out-of-character (hereafter referred to as OOC). They are
 for our safety, and provide the guidelines that we should all be playing by.
@@ -340,9 +341,9 @@ for our safety, and provide the guidelines that we should all be playing by.
     hit. Bows should NEVER be used to parry an attack. As with thrown weapons,
 	arrows should not strike a participant above the shoulders.
 
-# 3: Combat in the Realms {#combat-in-the-realms} #
+# 3: Combat in the Realms # {#combat-in-the-realms}
 
-## 3.1: The Combat System {#the-combat-system} ##
+## 3.1: The Combat System ## {#the-combat-system}
 
 The Realms uses a lightest-touch system for its combat system. That means that
 no matter how lightly your opponent may touch you with their weapon, you have to
@@ -398,7 +399,7 @@ Should an opponent's weapon (be it a melee weapon, missile weapon, or spell
 prop) hit you in more than one location with the same swing, all points of
 contact count as hits.
 
-## 3.2: Combat Etiquette {#combat-etiquette} ##
+## 3.2: Combat Etiquette ## {#combat-etiquette}
 
 Combat is an important part of the game. In order to make the game more fun for
 everyone, combat etiquette, which is OOC, has been developed. Using combat
@@ -475,7 +476,7 @@ you frequently target these sensitive areas it will indicate to others that you
 are not a safe and controlled fighter, and you may be asked to sit out by a
 marshal.
 
-## 3.3: Armor {#armor} ##
+## 3.3: Armor ## {#armor}
 
 ### Types of Armor ###
 
@@ -533,7 +534,7 @@ and the armor protecting the torso is all one piece, you can still take two
 shots to the armor on your front torso, back torso, and your other leg before
 the armor in those locations is completely destroyed.
 
-## 3.4 Character Death {#character-death} ##
+## 3.4 Character Death ## {#character-death}
 
 As players experience the game through the eyes of their characters, PC death
 becomes an important aspect of the game.
@@ -586,7 +587,7 @@ attack the unsuspecting looters. If you are unsure as to whether someone's
 character is dead and want the character to be, tap the player gently in a kill
 location.
 
-## 3.5: Scalping {#scalping} ##
+## 3.5: Scalping ## {#scalping}
 
 Scalping is the removal of a character's life essence through mutilation of the
 body. It is a more serious form of death that requires more than a simple spell
@@ -646,7 +647,7 @@ each event (including the first) since the scalped PC was scalped in order to
 raise them. A different spellcaster must provide each [Raise Dead](#raise-dead)
 spell used for this purpose.
 
-## 3.6: Permanent Death {#permanent-death} ##
+## 3.6: Permanent Death ## {#permanent-death}
 
 When a PC is dead and scalped at the end of an event at which they were at some
 point alive, they get a "tick." PCs may also receive ticks due to use of certain
@@ -665,14 +666,14 @@ was incurred or by the player whose PC received the tick. The Death Marshal will
 keep track of this information. The current Death Marshal is Keith Cronyn who
 can be reached at <Keith.Cronyn@gmail.com> or at 603-819-8689.
 
-## 3.7: Weapon Rules {#weapon-rules} ##
+## 3.7: Weapon Rules ## {#weapon-rules}
 
 Players are responsible for being safe with the weapon(s) they are using. Before
 using a weapon style in-game, players should take it upon themselves to be
 properly trained by a marshal or someone who is safe and proficient with that
 weapon style.
 
-### Wielding Weapons {#wielding-weapons} ###
+### Wielding Weapons ### {#wielding-weapons}
 
 For the purposes of the rules, you are wielding a weapon or shield if you are
 holding it in your hand(s) and you attack, parry, or block with it. You are
@@ -757,7 +758,7 @@ foam and they must be clearly labeled with the word "Spear" on the blade. Once
 being labeled as a spear the weapon must stay thrust-only even if it is legally
 made to regular slashing hand-and-a-half standards.
 
-### Bows {#bows} ###
+### Bows ### {#bows}
 
 A bow is wielded as if it were a hand-and-a-half weapon. This means that it may
 not be held when a weapon or shield is being wielded in your other hand, but it
@@ -802,7 +803,7 @@ bow or javelin to tell you not to take the blow.  A player may also call "shaft"
 if they received an illegal hit from an arrow or javelin.The length of javelins
 and arrows are not subject to a spellcaster's weapon restriction.
 
-## 3.8: Weapons Construction {#weapon-construction} ##
+## 3.8: Weapons Construction ## {#weapon-construction}
 
 There are several ways to make weapons in the Realms. If you are playing for the
 first time, it might be a better idea to borrow weapons than try to make any of
@@ -934,7 +935,7 @@ __Javelins__
 * Javelins must be between 2’6" and 5’ in length.
 * The word "Javelin" must also be written on the side of the weapon.
 
-## 3.9: Shield Construction {#shield-construction} ##
+## 3.9: Shield Construction ## {#shield-construction}
 
 * Shields must be at least 12" long (as measured by the longest dimension). A
   shield may be as large as you like, but you as an individual must be able to
@@ -944,7 +945,7 @@ __Javelins__
 * All shields must have their edges covered by foam. Any protruding metal screws
   or bolts should also be padded.
 
-## 3.10: Equipment Inspections {#equipment-inspections} ##
+## 3.10: Equipment Inspections ## {#equipment-inspections}
 
 You must inspect any armor, weapon, or shield before using it. If you are unsure
 about an item's safety, ask a marshal and they will inspect it for you. Any item
@@ -978,7 +979,7 @@ recently. The most common problem weapons have is that their thrusting tips are
 breaking down or have been compacted. The EH or marshal retains final ruling on
 the approval for use of a weapon.
 
-## 3.11: Combat Calls {#combat-calls} ##
+## 3.11: Combat Calls ## {#combat-calls}
 
 Combat calls are what you may hear yelled in combat, and you must know how these
 calls affect your PC.
@@ -989,7 +990,7 @@ Negates a hit attack. When "Armor" (or "Armor 1," "Armor 2," or "Armored Cloak")
 is called in combat, it means that the person calling armor is protected against
 the attack that landed on them, usually by means of armor or a spell effect.
 
-### Armor-Piercing {#armor-piercing} ###
+### Armor-Piercing ### {#armor-piercing}
 
 Armor cannot always protect a PC from certain attacks. If an opponent attacks a
 PC in any way and calls out "Armor-Piercing," any of the armor that is struck by
@@ -998,7 +999,7 @@ if they were not wearing armor. For example, if a PC is wearing heavy armor on
 their right arm, and an opponent hits it while calling "Armor-Piercing," the
 PC's armor is destroyed on that arm and they lose the limb.
 
-### Boulder {#boulder} ###
+### Boulder ### {#boulder}
 
 A PC can encounter a boulder call in one of two ways: being hit with a physical
 boulder prop or by a weapon simulating the effects of a boulder. In either
@@ -1019,7 +1020,7 @@ Four or more PCs, using a total of eight hands on the boulder, may work together
 to "push" a boulder along, to free trapped gear and companions, but not to cause
 damage.
 
-### Disease {#disease} ###
+### Disease ### {#disease}
 
 If a weapon strikes a PC and the wielder calls "Disease," wounds on their body
 take twice as many spells to be healed until the disease is cured. This effect
@@ -1033,7 +1034,7 @@ Regeneration effects will still affect a diseased character with a single use,
 but the regeneration time is doubled until the disease is cured. Disease can
 affect both living and dead characters.
 
-### Fireball {#fireball} ###
+### Fireball ### {#fireball}
 
 If you or any of your equipment are hit by the call of fireball, your character
 is dead. Armor and weapons hit by the fireball are not broken, but also do not
@@ -1042,7 +1043,7 @@ protect against its damage.
 The fireball call may come in the form of a thrown prop (as with a magic
 missile) or as a weapon blow. Fireball is magical in nature.
 
-### Flat {#flat} ###
+### Flat ### {#flat}
 
 To "knock out" an opponent, the attacking player must call out the word "Flat"
 prior to their attack. Should a successful killing blow be struck, they have
@@ -1052,7 +1053,7 @@ by touching the unconscious PC and saying "Wake Up." The PC can also wake up
 when any damage is inflicted on them. You may call "Flat" at any time, even in
 the middle of a fight. This form of attack deals no damage to armor.
 
-### Impale {#impale} ###
+### Impale ### {#impale}
 
 Impaling is the act of holding a weapon in an opponent's kill location after
 death, and saying the word "Impale." It counts as continuous, non-scalping blows
@@ -1060,14 +1061,14 @@ to that location. The act of impaling will bypass any armor, damaged or not.
 While impaled, a character cannot be raised or animated and is unable to
 regenerate. The results can vary when impaling NPCs.
 
-### Lightning Bolt {#lightning-bolt-call} ###
+### Lightning Bolt ### {#lightning-bolt-call}
 
 If you are hit by any part of a white boff arrow and the thrower calls
 "Lightning Bolt," your PC is struck as if by a magic armor-piercing weapon (see
 the [Magic](#magic-call) and [Armor-Piercing](#armor-piercing) calls in this
 section).
 
-### Poison {#poison} ###
+### Poison ### {#poison}
 
 There may be occasions where a PC is struck with a blow and the wielder calls
 "Poison." If this strike damages a PC in any location, be it torso, arm, leg,
@@ -1079,7 +1080,7 @@ still takes the normal damage from the blow but the poison will have no
 additional effect. Players should also call "Immunity to Poison," to allow an
 opponent to understand that you recognized that the blow was poisoned.
 
-### Weapon Type and Material Calls {#weapon-type-and-material-calls} ###
+### Weapon Type and Material Calls ### {#weapon-type-and-material-calls}
 
 Occasionally, more powerful monsters are only affected by certain weapon types
 or by certain materials. For example, axe-mace trolls are typically only injured
@@ -1090,16 +1091,16 @@ swing. When you are wielding a non-normal weapon (e.g., magic or silver), that
 weapon will always strike with the same effect therefore you must call that
 effect with every swing.
 
-### Magic {#magic-call} ###
+### Magic ### {#magic-call}
 
 If a weapon strikes you and the wielder calls "Magic" (or "Magic Missile"), it
 means your PC has been hit with a magical blow. Generally, being hit by magic
 doesn't affect your PC any differently than being hit by a normal weapon, but
 sometimes PCs are under spell effects where it makes a difference.
 
-### Silver {#silver} ###
+### Silver ### {#silver}
 If a weapon strikes you and the wielder calls "Silver" it means your PC has been
 hit with a silver blow. Being hit by silver doesn't affect your PC any
 differently than being hit by a normal weapon.
 
-# 4: Non-Combat Interactions {#non-combat-interactions} #
+# 4: Non-Combat Interactions # {#non-combat-interactions}
