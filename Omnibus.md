@@ -1,3 +1,7 @@
+ï»¿% 2018 Realms Omnibus
+% 2018 Realms OEC
+% March 22, 2018
+
 # 1: General Player Information # {#general-player-information}
 ===============================================================
 
@@ -13,11 +17,11 @@ rather than run by a single, static council or corporation.
 
 For those who are not familiar with what playing in a LARP entails, it is a lot
 like acting. The difference is that while the event staff sets the stage, the
-lines are all yours. You decide what “part” you want to play. Are you a mage, a
+lines are all yours. You decide what "part" you want to play. Are you a mage, a
 warrior, a noble, or all of the above? Once you arrive at the event site you
 slip into your character. You stop acting like yourself and begin acting like
-your new persona. The Realms uses foam-padded “weapons” to simulate combat and
-has an intricate magic system to represent all sorts of things we wouldn’t be
+your new persona. The Realms uses foam-padded "weapons" to simulate combat and
+has an intricate magic system to represent all sorts of things we wouldnâ€™t be
 able to do in real life. The system is designed to help resolve situations that
 we cannot practically resolve on our own. Specifics of the Realms system will be
 discussed in more detail later on. You're in the Realms now and you'll never be
@@ -76,12 +80,14 @@ Feasts
   games of chance or skill, and other such activities can usually be found at
   feasts. Feasts are often a good starting point for some players, particularly
   those more interested in role-playing than in combat.
+
 Tournaments
 : Tournament events usually feature contests of both individual and team martial
   skill. These are usually held as yearly events, and are generally a social
   occasion. Players more interested in combat and less interested in
   role-playing and magic find tournament events the best starting point for
   their Realms careers.
+
 Quests
 : Quest events are the traditional style of event for saving damsels in
   distress, finding and killing evil demons, and many other tasks. Nearly
@@ -201,7 +207,7 @@ ignored or no reasonable action is taken, bring the situation to the attention
 of the Arbitration Committee. Event Holders who have a history of disregarding
 reports of rules violations, or who do not address especially serious reports
 may face penalties including, but not limited to, temporary loss of EH status,
-un-backing of that EH’s magic item(s), revocation of an event’s legal status,
+un-backing of that EHâ€™s magic item(s), revocation of an eventâ€™s legal status,
 and/or being banned from holding future events.
 
 Reports of rules violations to be submitted after the conclusion of an event
@@ -210,16 +216,16 @@ should be submitted to the AC.
 ## 2.2: Code of Conduct ## {#code-of-conduct}
 ---------------------------------------------
 
-Anyone can report harassment or abuse. If someone’s behavior towards you has
+Anyone can report harassment or abuse. If someoneâ€™s behavior towards you has
 violated your rights as a participant, or if you witness the same happening to
-someone else, immediately report the incident to the event’s EH.
+someone else, immediately report the incident to the eventâ€™s EH.
 
 If you have reason to believe rules regarding the Code of Conduct may be
 violated at an event, you should notify the Event Holder prior to the event
 occurring.
 
 The following list is not meant to be exhaustive, and any non-consensual
-violations of a participant’s rights should be considered a violation of the
+violations of a participantâ€™s rights should be considered a violation of the
 rules.
 
 Any of the following constitute grounds for punitive action:
@@ -230,7 +236,7 @@ Any of the following constitute grounds for punitive action:
 * Using anything in an out-of-character threatening or destructive manner
   against person or property;
 * Endangering the safety of oneself or others;
-* Stealing (People’s tents, bags, packs, pouches, and possessions are completely
+* Stealing (Peopleâ€™s tents, bags, packs, pouches, and possessions are completely
   off-limits and out-of-play. There are no exceptions, even if officially
   in-play items are concealed therein);
 * Drinking alcohol under the age of 21, or providing alcohol to those under age
@@ -365,7 +371,7 @@ prop that does damage as a weapon.
 Your body is separated into seven locations of which there are two kinds. Your
 arms and legs are "limbs," while your head and the front and back of your torso
 are "kill locations." If you become confused about exactly where one location
-stops and another begins, thinking of a Barbie™ doll may help. The buttocks of a
+stops and another begins, thinking of a Barbieâ„¢ doll may help. The buttocks of a
 person are considered leg shots. If you are hit in the buttock(s), you lose the
 appropriate leg(s).
 
@@ -516,8 +522,8 @@ other hand, if one piece of armor covers more
 than one hit location, it is treated as separate hit locations. The armor hit
 locations are divided up by the hit locations for taking wounds and kills. Light
 armor allows you to call out "Armor 1" on that hit location and the next blow
-will do damage. If you are wearing heavy armor you should call out "Armor 1”
-then “Armor 2" before the hit location takes damage. 
+will do damage. If you are wearing heavy armor you should call out "Armor 1"
+then "Armor 2" before the hit location takes damage. 
 
 You can be wearing armor on a hit location yet still have some areas of that hit
 location that are not covered. These sections are also considered armored if at
@@ -625,7 +631,7 @@ number of weapons used. Some monsters and characters under certain spells may
 require more scalping blows to completely destroy. If you strike 200 blows and
 the victim says "The job is not yet done," then the scalping is not yet
 complete. Some spells, such as [Strange Brew: Potion of Acid](#strange-brew) and
-[Assassin’s Blade](#assassins-blade), may accelerate the act of scalping.
+[Assassinâ€™s Blade](#assassins-blade), may accelerate the act of scalping.
 
 After the scalping is finished, the player of the scalped character must present
 their character's scalp to the character that just scalped them. It is then that
@@ -702,7 +708,7 @@ not sure where that blow would have landed, then assume it would hit the
 location that would cause you the most harm (e.g., an unarmored kill location).
 There are special restrictions for spellcasters in terms of wielding and
 blocking with different weapons, and specific consequences for doing so outside
-of the spellcaster’s restriction. See [Breaking Weapon
+of the spellcasterâ€™s restriction. See [Breaking Weapon
 Restrictions](#breaking-weapon-restrictions) for more information.
 
 The size of a weapon dictates how it may be wielded. Weapons cannot be any
@@ -710,13 +716,13 @@ smaller than 12", and cannot exceed 8' in length.
 
 +-------------+-------------------------+
 | Length      | Weapon Type             |
-+============:|:========================+
++============:+:========================+
 | 12" to 3'8" | One-handed              |
 +-------------+-------------------------+
 | 3'8" to 5'  | Hand-and-a-half         |
 +-------------+-------------------------+
 | 4' to 5'    | One-handed, no          |
-|	          | florentine, thrust-only |
+|             | florentine, thrust-only |
 +-------------+-------------------------+
 | 5' to 6'6"  | Two-handed              |
 +-------------+-------------------------+
@@ -775,7 +781,7 @@ made to regular slashing hand-and-a-half standards.
 
 A bow is wielded as if it were a hand-and-a-half weapon. This means that it may
 not be held when a weapon or shield is being wielded in your other hand, but it
-is legal to fire it with one hand— if you can! A bow is not considered a
+is legal to fire it with one handâ€” if you can! A bow is not considered a
 "weapon" for purposes of determining whether a spell fails; arrows are
 considered weapons and will cause some spells to fail.
 
@@ -831,8 +837,8 @@ Be sure to follow these guidelines when constructing a weapon:
   Both ends must be capped with a rigid material.
 * All weapons must have a thrusting tip (the pipe foam that extends beyond the
   tip of the pipe) as noted below.
-* A weapon’s striking surface must be made from closed-celled foam pipe
-  insulation, which must be at least 5/8” thick and which must be firmly
+* A weaponâ€™s striking surface must be made from closed-celled foam pipe
+  insulation, which must be at least 5/8" thick and which must be firmly
   strapping-taped in place. All striking surfaces must be covered in either duct
   tape or fabric. Only magic weapons should be made with a blue-colored striking
   surface, and you may only make a magic weapon through the use of spells in the
@@ -841,7 +847,7 @@ Be sure to follow these guidelines when constructing a weapon:
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
 | Length       | Core                      | Thrusting\ | Camp\     | Squishy\     | Minimum Foam\   |
 |              |                           | Tip        | Foam Disk | Foam Tips    | Coverage        |
-+:============:|:=========================:+:==========:+:=========:+:============:+:===============:|
++:============:+:=========================:+:==========:+:=========:+:============:+:===============:+
 | 12" - 44"    | 1/2", 3/4", or 1" PVC     | 1 3/4"     | Not\      | Not Required | Half of weapon\ |
 |              |                           |            | Required  |              | length          |
 +--------------+---------------------------+------------+-----------+--------------+-----------------+
@@ -882,7 +888,7 @@ from the tip
 ### Double-bladed weapons (including Marns) ###
 
 * No surface of a double-bladed one-handed slashing weapon may be shorter than
-  6”.
+  6".
 * The overall (combined) foam length must still be at least half the length of
   the weapon.
 * Each striking surface of a double-bladed slashing weapon of hand-and-a-half
@@ -895,9 +901,9 @@ from the tip
 
 **T8 and Aqua Tube Arrows**
 
-* All arrows must have 2” thrusting tips, 4” of pipe foam, and 2” squishy-foam
+* All arrows must have 2" thrusting tips, 4" of pipe foam, and 2" squishy-foam
   tips to be considered safe.
-* All arrows must be made from 3/4” or 1” diameter tubing.
+* All arrows must be made from 3/4" or 1" diameter tubing.
 * All arrow tube shafts must be capped on the arrowhead end of the shaft with a
   rigid material. Examples of acceptable cap materials include, but are not
   limited to, rigid plastics (such as milk jug caps or film canister caps) or a
@@ -907,22 +913,22 @@ from the tip
   construction. Weighting includes the attachment of multiple rigid caps.
 * All aqua tube shafts should, at minimum, be covered by two lengths of
   strapping tape.
-* Lightning Bolt props are the only “arrow” props that should be made solely
+* Lightning Bolt props are the only "arrow" props that should be made solely
   from white duct tape. Arrows may have a white head or shaft, but not both.
-* Whether custom-designed arrows are allowed is up to the individual EH’s
+* Whether custom-designed arrows are allowed is up to the individual EHâ€™s
   discretion.
 
 **LARP Arrows**
 
 * Head must be permanently affixed, commercially manufactured, designed to be
-  “larp safe” or “archery tag safe” with squishy foam, and have a minimum
-  diameter of 2 1/8” on the striking surface.
+  "larp safe" or "archery tag safe" with squishy foam, and have a minimum
+  diameter of 2 1/8" on the striking surface.
 * Shaft must be made from either unbreakable or safety fiberglass, covered in a
   minimum of 2 layers of fiberglass reinforcing tape (strapping tape), and be no
-  longer than 28” measured from the end of the nock to the base of the arrow
+  longer than 28" measured from the end of the nock to the base of the arrow
   head.
 * Nocks must be permanently affixed and must be manufactured and designed to be
-  “larp safe” or “archery tag safe”.
+  "larp safe" or "archery tag safe".
 
 
 **Lightning Bolts** {#lightning-bolt-construction}
@@ -931,9 +937,9 @@ A Lightning Bolt prop is an arrow or javelin made with the following additional
 details:
 
 * It must be primarily white. 
-* It must be between 2’6” and 3’6” in length. The prop is not subject to the
-  spellcaster’s weapon length restriction.
-* It must have the words “Lightning Bolt” and the spellcaster’s name written
+* It must be between 2â€™6" and 3â€™6" in length. The prop is not subject to the
+  spellcasterâ€™s weapon length restriction.
+* It must have the words "Lightning Bolt" and the spellcasterâ€™s name written
   visibly along the shaft.
 * It cannot have an arrow nock.
 * It must not have the word "Javelin" on it if it is a javelin prop.
@@ -948,8 +954,8 @@ details:
 * Javelins must be made from new pipe foam and must have squishy-foam heads.
 * Any fletching added must be made out of foam, and the javelin may not be
   weighted in any way.
-* Javelins must be between 2’6” and 5’ in length.
-* The word “Javelin” must also be written on the side of the weapon.
+* Javelins must be between 2â€™6" and 5â€™ in length.
+* The word "Javelin" must also be written on the side of the weapon.
 
 ## 3.9: Shield Construction ## {#shield-construction}
 -----------------------------------------------------
@@ -1005,7 +1011,7 @@ calls affect your PC.
 
 ### Armor ###
 
-Negates a hit attack. When "Armor" (or "Armor 1,” "Armor 2," or "Armored Cloak")
+Negates a hit attack. When "Armor" (or "Armor 1," "Armor 2," or "Armored Cloak")
 is called in combat, it means that the person calling armor is protected against
 the attack that landed on them, usually by means of armor or a spell effect.
 
@@ -1022,13 +1028,13 @@ PC's armor is destroyed on that arm and they lose the limb.
 
 A PC can encounter a boulder call in one of two ways: being hit with a physical
 boulder prop or by a weapon simulating the effects of a boulder. In either
-instance, the same call of “Boulder!” is used.
+instance, the same call of "Boulder!" is used.
 
-If you or any of your equipment are hit by the call of “Boulder!”, you suffer
-the following effects: your character is dead, any armor hit is “broken” where
+If you or any of your equipment are hit by the call of "Boulder!", you suffer
+the following effects: your character is dead, any armor hit is "broken" where
 the boulder touched the locations, magic items hit by the boulder are
 disenchanted, and any non-monetary equipment (i.e. non-enchanted weapons, bows,
-and shields) that is hit by the boulder is “broken.” It is the player’s
+and shields) that is hit by the boulder is "broken." It is the playerâ€™s
 responsibility to see that items damaged this way are not used until the
 appropriate repair spells are cast upon them.
 
@@ -1064,11 +1070,11 @@ missile) or as a weapon blow. Fireball is magical in nature.
 
 ### Flat ### {#flat}
 
-To “knock out” an opponent, the attacking player must call out the word "Flat"
+To "knock out" an opponent, the attacking player must call out the word "Flat"
 prior to their attack. Should a successful killing blow be struck, they have
 instead rendered their foe unconscious for a steady count of 300 seconds. The
 unconscious PC may be wakened sooner by having another PC come and wake them up
-by touching the unconscious PC and saying "Wake Up.” The PC can also wake up
+by touching the unconscious PC and saying "Wake Up." The PC can also wake up
 when any damage is inflicted on them. You may call "Flat" at any time, even in
 the middle of a fight. This form of attack deals no damage to armor.
 
@@ -1110,7 +1116,7 @@ swing. When you are wielding a non-normal weapon (e.g., magic or silver), that
 weapon will always strike with the same effect therefore you must call that
 effect with every swing.
 
-### Magic ### {#magic}
+### Magic ### {#magic-call}
 
 If a weapon strikes you and the wielder calls "Magic" (or "Magic Missile"), it
 means your PC has been hit with a magical blow. Generally, being hit by magic
