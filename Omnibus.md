@@ -613,8 +613,8 @@ divides the number of blows to be struck between the number of participants and
 number of weapons used. Some monsters and characters under certain spells may
 require more scalping blows to completely destroy. If you strike 200 blows and
 the victim says "The job is not yet done," then the scalping is not yet
-complete. Some spells, such as [Strange Brew: Potion of Acid](#strange-brew) and
-[Assassin’s Blade](#assassins-blade), may accelerate the act of scalping.
+complete. Some spells, such as [Strange Brew: Potion of Acid](#potion-of-acid)
+and [Assassin’s Blade](#assassins-blade), may accelerate the act of scalping.
 
 After the scalping is finished, the player of the scalped character must present
 their character's scalp to the character that just scalped them. It is then that
@@ -639,13 +639,13 @@ character was not actively scalped, the PC will be considered scalped.
 To restore someone to life after scalping, characters must first have the body
 of the person needing to be raised. Then characters must either cast a [Call the
 Soul](#call-the-soul), an [Intervention](#intervention) spell, or administer a
-Potion of Soul Snare (see [Strange Brew](#strange-brew)) to summon and reattach
-the scalp. If characters lack the body, only an [Intervention](#intervention)
-spell will be able to return the scalped PC back to life. When the body and
-scalp are reunited, characters must cast one [Raise Dead](#raise-dead) spell for
-each event (including the first) since the scalped PC was scalped in order to
-raise them. A different spellcaster must provide each [Raise Dead](#raise-dead)
-spell used for this purpose.
+[Potion of Soul Snare](#potion-of-soul-snare) (see [Strange
+Brew](#strange-brew)) to summon and reattach the scalp. If characters lack the
+body, only an [Intervention](#intervention) spell will be able to return the
+scalped PC back to life. When the body and scalp are reunited, characters must
+cast one [Raise Dead](#raise-dead) spell for each event (including the first)
+since the scalped PC was scalped in order to raise them. A different spellcaster
+must provide each [Raise Dead](#raise-dead) spell used for this purpose.
 
 ## 3.6: Permanent Death ## {#permanent-death}
 
@@ -981,7 +981,7 @@ recently. The most common problem weapons have is that their thrusting tips are
 breaking down or have been compacted. The EH or marshal retains final ruling on
 the approval for use of a weapon.
 
-## 3.11: Combat Calls ## {#combat-calls}
+## 3.11: Combat Calls ## {#combat-calls-section}
 
 Combat calls are what you may hear yelled in combat, and you must know how these
 calls affect your PC.
@@ -1565,3 +1565,627 @@ allowed to do this once per event. Event Holders may choose to grant powers to
 members of other knighthoods.
 
 # 6: Magic in the Realms # {#magic-in-the-realms}
+
+## 6.1: Basic Magic Effects Everyone Should Know ## {#basic-magic-effects-everyone-should-know}
+
+Even if you are not a spellcaster, and have no desire to become one, there is
+still some basic information that you are responsible for understanding. In
+nearly all cases, a spellcaster casting a spell on your PC should explain,
+either through their VC or as an aside to you, how the spell affects your PC.
+Even fighters should read the magic system and spell descriptions, so they have
+a basic understanding of magic in the game and how it might affect them. No
+spell effect may be ignored unless otherwise specified in the spell system.
+
+The following are some rules about spells that can have an effect on your
+character on a day-to-day basis. They are included here with some basic
+information about how they affect you both IC and OOC.
+
+### Healing Spells ###
+
+When your character is injured or killed, only magic can fix the damage. To
+raise a character means to return a character to life. Raising a character
+repairs any injuries to limbs the character may have taken prior to their death
+and also nullifies the effects of any poisons in their system at the time of
+their death.
+
+* [Combat Raise Dead](#combat-raise-dead): this three-word spell will raise a
+  character.
+* [Cry of Life](#cry-of-life): the call of "All in the sound of my voice, rise
+  and fight" raises all dead who hear it.
+* [Group Healing](#group-healing): allows a spellcaster to make a large circle
+  through which they cast a healing spell upon every character in it.
+* [Heal Limb](#heal-limb): this spell allows one wounded limb to be magically
+  healed. The spellcaster will let you know when your character's limb has been
+  repaired.
+* [Raise Dead](#raise-dead): this spell raises a character. This spell will not
+  work if there is a weapon within 10 feet of the spellcaster. Inform a
+  spellcaster the spell has failed if you know about a weapon near enough to
+  disrupt the spell. A bow is not considered a weapon, but arrows are considered
+  weapons.
+
+### Regeneration ### {#regeneration-bmeesk}
+
+Some spells grant the ability to regenerate from death. This takes 120 seconds.
+While this happens, your wounds begin to heal. Until 120 seconds have passed,
+this grants no benefit. A blow to any kill location on a dead body will cause a
+regeneration count to reset no matter where the killing blow was inflicted.
+[Impaling](#impale) stops regeneration; the count resets when the weapon is
+removed. Regenerating from death heals all healable wounds on the body. If
+examined by another person, wounds can be seen to be regenerating. If you are
+[diseased](#disease), it takes twice as long to regenerate. The effect ends when
+you are raised.
+
+### Combat Spells ###
+
+Certain combat calls (see [Lightning Bolt](#lightning-bolt-call) and [Magic
+Missile](#magic-call) in [Section 3.11: Combat Calls](#combat-calls-section))
+involve a prop that is thrown at a combatant. After the prop has come to rest it
+is only a physical representation of magic and cannot be moved or touched other
+than by the person who threw it. It may be seen and guarded but not purposefully
+hidden (e.g., putting a bucket over it). The prop is not considered a weapon and
+does not cause [Spell Failure](#spell-failure) except while the spell is active
+(i.e. from when the prop is thrown until it comes to rest).
+
+### Undeath ###
+
+Certain spells make your character undead for their duration. Your character
+will remember what happened to them while they were undead. While undead, your
+character cannot cross a [Circle of Protection](#circle-of-protection), other
+than one they created themselves (represented by a circle of rope on the
+ground), or advance within 5 feet of someone casting [Ward:
+Undead](#ward-undead) or [Ward: Enchanted Beings](#ward-enchanted-beings). This
+family of spells does not give you the ability to ignore weapon restrictions,
+nor can you be compelled to forcibly break them. If you have any questions about
+this, ask the spellcaster when they cast the spell on you.
+
+* [Animate Undead General](#animate-undead-general): if this spell is cast upon
+  you when your PC is dead, your PC becomes an undead creature under the
+  spellcaster's control. You may not refuse to have your PC turned into an
+  undead, unless under certain magical effects (see [Protect the
+  Soul](#protect-the-soul)). You are now playing a greater undead version of
+  your PC and have access to all their spells, abilities, and knowledge. In
+  addition your PC now has the ability to cast [Animate Lesser
+  Undead](#animate-lesser-undead) with unlimited castings. The Undead General
+  will die to any damaging magical attacks regardless of location. Your PC must
+  follow the orders of the spellcaster. The spell ends if your PC is slain and
+  raised or simply raised.
+* [Animate Undead](#animate-undead): if this spell is cast upon you when your PC
+  is dead, your PC becomes an undead creature under the spellcaster's control.
+  You may not refuse to have your PC turned into an undead, unless under certain
+  magical effects (see [Protect the Soul](#protect-the-soul)). You are now
+  playing an undead version of your PC and have access to all their spells,
+  abilities, and knowledge. Your PC must follow the orders of the spellcaster.
+  The spell ends if your PC is slain and raised or simply raised.
+* [Animate Lesser Undead](#animate-lesser-undead): if this spell is cast upon
+  you when your character is dead, your character becomes an undead creature
+  under the spellcaster's control. Lesser undead cannot use any armor or spells
+  regardless of what they normally have. You may not refuse to have your PC
+  turned into an undead, unless under certain magical effects (see [Protect the
+  Soul](#protect-the-soul)). [Animate Lesser Undead](#animate-lesser-undead) can
+  be used to raise an undead (see [Animate Undead](#animate-undead)), but
+  returns the character to un-life, rather than life. Like [Animate
+  Undead](#animate-undead), the spell ends when your PC is slain and raised or
+  simply raised.
+* [Walking Dead](#walking-dead): certain spells will make a PC's dead body walk
+  without either returning them to life or fully animating them as undead. When
+  a PC is under the effects of these spells, follow these guidelines:
+  * Walk at a steady pace, do not run.
+  * Keep any items on you that you would retain if picked up and dragged.
+  * Move to the destination as directly as possible without taking an OOC unsafe
+    path. If the only option is to move into an OOC unsafe situation, then the
+    spell ends and the body falls to the ground.
+  * If another character interferes with the body, such as by attacking them or
+    physically stepping in their way to block them, the effect of the spell
+    ends.
+  * The PC cannot take any actions other than walking; no attacking, searching,
+    picking up items, using magic items, or drinking potions.
+  * The PC is considered to be Undead while the effect lasts. See the [Undead
+    Caveat](#undead).
+  * The main difference between various [Walking Dead](#walking-dead) spells is
+    in where the PC must walk to.
+    * [Beckon Corpse](#beckon-corpse): the PC will stand and walk to the
+      spellcaster as long as they are chanting. If the PC is forced to stop, the
+      spellcaster may have the option to regain their attention and resume
+      chanting, at which point the PC will get back up and continue walking to
+      the spellcaster.
+    * [Zombie Walk](#zombie-walk): the PC will follow the spellcaster until the
+      spellcaster either ends the spell, the spellcaster attacks someone, or
+      they are attacked.
+
+### Potions ### {#potions-bmeesk}
+
+Potions are disposable magic items that anyone can use. Common forms that
+potions can take include, but are not limited to something that must be consumed
+or a scroll that must be read or ripped. In all cases the potion needs to be
+administered by a living or animated character, and after it is used, cannot be
+used again.
+
+* [Potion of Acid](#potion-of-acid): if your PC is dead, and someone indicates
+  they are using an acid potion on you, your PC takes 200 scalping blows. See
+  [Strange Brew](#strange-brew) for details.
+* [Potion of Repair Armor](#potion-of-repair-armor): it repairs a hit location
+  of damaged armor in 15 seconds when applied to it.
+* [Potion of Combat Raise Dead](#potion-of-combat-raise-dead): it raises a dead
+  character when used.
+* [Potion of Heal Limb](#potion-of-heal-limb): it heals all of a character's
+  injured limbs when used.
+
+### Blacksmith Spells ###
+
+Certain spells repair damaged armor and broken items.
+
+* [Repair Armor](#repair-armor): this will restore one hit location of
+  non-magical armor that has been damaged. For example, the armor on one arm,
+  the chest of a shirt of chainmail, head armor, etc.
+* [Repair Item](#repair-item): this will restore non-magical armor, weapons, and 
+  other items that have become damaged or destroyed. This spell has a VC, and it
+  fixes the entire item. For example, all hit locations of someone’s armor, a
+  bow, a boulder-crushed weapon, a shield, etc.
+
+### Other Spells and Things You Should Know ###
+
+* [Create Poison](#create-poison): if you ingest food or drink that is poisoned
+  through the use of this spell, you will be handed a scroll upon which is
+  written the poison's effect. You must follow the scroll's instructions
+  completely. It will either kill your PC, cause them to fall in love with
+  someone, sleep deeply, or tell nothing but the truth. All effects other than
+  death are short-lived. A player that ingests a love poison always has the
+  option of allowing their PC to die if they are OOC uncomfortable with the
+  situation.
+* [Cure Disease](#cure-disease) or [Potion of Cure
+  Disease](#potion-of-cure-disease): these spells cure a character of a disease
+  (see [Disease](#disease) in the [Combat Calls](#combat-calls-section)
+  section).
+* [Immunity to Poison](#immunity-to-poison): this spell makes your PC immune to
+  the very next poison or poison attack that would otherwise affect them. It
+  works only once per use of the spell. Call "Immunity to Poison," when you use
+  this spell's effect (see [Poison](#poison) in [Section 3.11: Combat
+  Calls](#combat-calls-section)).
+* [Light](#light): you may not take the light out of verbal communication range
+  of the spellcaster.
+* [Pas](#pas): this spell creates a temporary truce. If you accept the offered
+  bribe you are magically bound to not attack the spellcaster for 60 seconds
+  unless you are attacked.
+* [Protect the Soul](#protect-the-soul): this spell will protect your PC from
+  possession, [Animate Undead](#animate-undead), and the like.
+* [Speak With Dead](#speak-with-dead): this spell will allow the spellcaster to
+  ask a dead character a single question per casting. Your PC MUST answer
+  truthfully or abstain, using the words, "Yes," "No," or "Abstain."
+
+### Regional Magic ### {#regional-magic}
+
+At any given event, the EH may wish or require that certain magical abilities be
+available to the players. One of the ways they can accomplish this is through
+Regional Magic. Regional Magic is usually an additional number of spells that
+spellcasters can choose from. Spellcasters can only choose from this list if
+they had filled at least one spell slot with a Regional Magic spell. Regional
+Magic is learned and unlearned just like any other spell, and may be learned
+from anyone who knows it at any circle.
+
+At some events, the Regional Magic your PC will receive is based on which circle
+spell slot you filled with the Regional Magic spell. At some events, all of the
+Regional Magic spells are the same, no matter which circle slot you filled with
+Regional Magic. Others are completely random. Some EHs may require you perform
+certain actions before gaining the Regional Magic. The details of Regional Magic
+are left entirely up to the EH. No Regional Magic spell will have a lingering
+effect that lasts longer than the end of the event. One thing to keep in mind is
+that while Regional Magic is more versatile, it is also more unreliable. An EH
+may choose a different spell from the list, a new spell, or nothing.
+
+## 6.2: Learning and Unlearning Spells ## {#learning-and-unlearning-spells}
+
+### Choosing Spells ###
+
+The first step in choosing spells is to decide which 1st circle spell you want
+to learn. Each path of magic is a list of spells of 5 increasing circles. 
+
+A spellcaster may choose one of four options for each circle of a path:
+
+* Any of the spells listed for that circle.
+* Any spell of a lower circle.
+* A Regional Magic spell.
+* Alchemy
+
+When a spellcaster learns their first path of magic, they learn one spell from
+each of 1st through 5th circles, in order. If they learn a second path, they
+learn one spell from each of 2nd through 6th circles, possibly learning some
+spells for a second time. If they learn a third path, they again learn one spell
+from each of 1st through 5th circles.
+
+### Learning Progessions ###
+
+At every event a character attends, they have the possibility of learning one or
+more spells. If they do not learn a spell at that event, for whatever reason,
+the opportunity is wasted and they may try again at the next event.
+
+### Learning a Spell ###
+
+There are three ways to learn a spell. You should find a PC who knows the spell
+and learn it from them. The PC who is teaching the spell must have the spell in
+their spellbook, must be able to cast the spell at that event, and they must
+sign the book with their character's name. If you cannot, or decide that you do
+not want to learn it from a character who knows it, you can ask the EH to
+provide you with a quest to learn a single spell. This quest will add a single
+signature toward learning the spell. Additionally, you may teach yourself a
+single spell if it is listed in your Spell Mastery section. Your PC does not
+officially learn the spell until your teacher, teachers, or MM sign your
+spellbook legibly. Your teacher or teachers are responsible for making sure you
+understand all of the rules that go with the spell, and may refuse to sign if
+you seem unable or unwilling to understand the rules. This is important, as the
+teacher may be held liable for their student if they did not teach them the
+spell properly.
+
+You may learn as many spells as you are able to prove understanding for;
+however, at any event, for each additional spell after the first an additional
+teacher's signature is required. Your first spell requires one teacher's
+signature, your second spell requires two teachers’ signatures, your third spell
+requires three teachers’ signatures, etc. You must actually attend that event
+and play that PC. Teaching yourself from Spell Mastery counts as a single
+teacher's signature. A teacher or quest giver may only sign off on one spell per
+player per event.
+
+### Unlearning Spells ###
+
+Any number of spells may be unlearned at check-in of an event. You may not learn
+a spell at an event where you are unlearning any spells. If you unlearn all the
+spells in a path, then you no longer have that path, and your restriction
+immediately changes to match your current number of paths. When you have learned
+2 paths, you may not unlearn your first path unless you are also unlearning the
+second path completely. Likewise when you have learned 3 paths you may not
+unlearn both paths of magic that include circles 1-5; you may only unlearn one
+of those paths unless you are also unlearning all of your path that includes
+circles 2-6. Upon unlearning all your spells, you are no longer considered a
+spellcaster. Any given spell may not change the path it is in without being
+unlearned from its original path and relearned in the new path.
+
+For example, Ethan is a 2 path with some healing magic in his second path. He
+decides that he doesn't like healing very much, and he misses using a 4'6"
+weapon. At the next event he attends, he unlearns all of the spells in his
+second path, and he begins the event at Light restriction.
+
+Fiona is a 3 path, but wants to change her 6th circle spell. The next event she
+attends, she unlearns her 6th circle spell, remaining under a Severe restriction
+but without access to a 6th circle spell for the event. At the next event she
+can learn a new 6th circle spell.
+
+Gunthar wants to become a fighter after being an spellcaster for many years, but
+he doesn't want to give up the option of learning spells again later that year.
+At the beginning of the next event he attends, he unlearns all of his spells and
+starts as a fighter.
+
+### Alchemy ### {#alchemy}
+
+A spellcaster may choose to take Alchemy in a spell slot instead of learning a
+spell. This still requires someone to teach and sign off their spellbook. Any
+spellcaster that knows Alchemy must include a points total on their spell list
+page. Whenever a spellcaster learns Alchemy they receive points equal the chart
+listed below. For example, if Samuel learns Alchemy in his third and fifth
+circle slot, he will have 12 points with which to make potions. All spellcasters
+know three basic potions, listed below, and can learn more with the Strange Brew
+spell. All Potions are governed by the Enchanted Item and Potions Caveat.
+
++-----------------+----+----+----+----+----+----+
+| Spell Circle    | 1  | 2  | 3  | 4  | 5  | 6  |
++-----------------+----+----+----+----+----+----+
+| Points Gained   | 1  | 2  | 4  | 6  | 8  | 10 |
++-----------------+----+----+----+----+----+----+
+
+Basic Potions
+
+* [Potion of Repair Armor]{#potion-of-repair-armor} (1 Point): Repairs one hit
+  location of armor. The potion is poured or applied to the damaged armor and
+  held there for a 15-second count. The armor does not need to be removed for
+  the potion to be applied to it.
+* [Potion of Mending]{#potion-of-mending} (2 Points): Recipient receives a basic
+  regeneration. This potion will have no effect on a living target.
+* [Power Potion]{#power-potion} (Special): Resets a single spell of the
+  recipient equal to half of the points spent to create it, rounded down. This
+  cannot be used to reset a 6th circle spell. (Example: a caster may spend 10
+  points to make a potion to reset a 5th circle spell.)
+
+## 6.3: The Basics of a Spell ## {#the-basics-of-a-spell}
+
+### Spell Components ###
+
+Spells have components that are necessary in order to cast the spells. Some are
+specific, and every player must use the same component to make sure that
+everyone understands what spell your PC is casting. Some are left open and the
+spellcaster can choose any component that fits the description. The spell
+descriptions list the minimal spell components required for each spell. The game
+does not limit the spellcaster's freedom to define their own magic, so the
+required components are as succinct as possible. You may add more requirements
+for shtick if you like, but you cannot leave out any of the minimums.
+
+Here are the definitions of the different types of components:
+
+* Verbal Component (VC): These are the words you have to say while casting the
+  spell. It is important that you enunciate your verbal component and say it
+  loud enough so the person or persons affected can understand what you are
+  saying. The verbal usually explains what spell you are casting. If the target
+  cannot understand you, they are not affected by the spell. A verbal must be
+  written within the spellbook in order to be used, and it must meet the
+  criteria for the spell. Requirements such as "Talk to the EH" or "an
+  explanation" can simply be written as such. Multiple verbals may be written
+  for the same spell, and the caster may choose which to use at casting time.
+  Verbals may be changed between events.
+* Material Component (MC): There are three types of material components;
+  required, disposable, and foci.
+  * Required components are specific to a spell, such as bean-bags, foam, or
+    duct tape blocks for the [Magic Missile](#magic-missile) spell. These
+    components cannot vary from what is listed.
+  * Disposable components are up to the player, but they must be something that
+    is consumed or thrown away with every casting of the spell. A disposable
+    component is something that the spellcaster could easily hand to the MM for
+    inspection. 
+  * A focus is a component that is not consumed or thrown away. Often, it is
+    necessary for the spellcaster to brandish a focus while casting certain
+    spells. The spellcaster may have a single focus for all of their focus-based
+    spells. A focus is something that another player or NPC can obviously
+    identify as the focus when the spellcaster is using it for a spell. A
+    spellcaster must also be able to hand this to the MM for inspection. A focus
+    may not be a weapon.
+
+  All MCs must be specified and written down in the PC's spellbook for every
+  spell that they know and, except for foci, the component must be different for
+  each spell. A spellcaster must have at least one uninjured hand to use a MC.
+* Active Component (AC): These are actions that the spellcaster must take in
+  order to cast the spell and must be performed at the time of casting.
+  Characters may add anything else for role-playing purposes.
+* Duration: Unless otherwise noted in the spell description or caveat, all
+  spells end when the event ends.
+
+## 6.4: Caveats ## {#caveats}
+
+Caveats are general rules that apply to all spells or spell effects of a similar
+type. Each spell that is affected by a caveat is listed in the appropriate
+place.
+
+### Combat Calls ### {#combat-calls-caveat}
+
+The spells that allow special combat calls are [Assassin's
+Blade](#assassins-blade), [Armor-Piercing Weapon](#armor-piercing-weapon),
+[Disease Weapon](#disease-weapon), [Enchant Weapon](#enchant-weapon), and
+[Create Poison](#create-poison). These spells are mutually exclusive and cannot
+be cast upon a weapon that already has a separate combat call. Weapon types,
+such as axes or maces, are not covered by this caveat. None of these spells can
+be cast upon a [Magic Missile](#magic-missile) or [Lightning
+Bolt](#lightning-bolt-spell).
+
+### Chanting ### {#chanting}
+
+Some spells require that their VC be chanted continuously for the duration of
+the spell. These spells do not take effect until the VC has been recited fully,
+at least once. These spells last as long as the spellcaster continues the chant.
+OOC explanations (such as combat calls) do not interrupt these spells. For
+example, if a PC is chanting a [Transmute Self](#transmute-self) spell and is
+hit by a weapon, they may call "No effect" without interrupting the spell; if a
+PC is chanting a [Ward: Undead](#ward-undead) spell and a goblin hits their leg,
+they can call "Leg" (or "Armor," or "Armored Cloak," etc.) without having the
+spell end. The VC for these spells must be spoken clearly and loudly enough that
+anyone affected by the spell can understand them. Chanting spells can be
+disrupted by the 4th circle spell [Disrupt](#disrupt). It is the PC's
+responsibility to know what the [Disrupt](#disrupt) spell is, how to recognize
+it, and how to respond to it.
+
+### Circles ### {#circles}
+
+There are a number of spells that are considered circle spells. A circle spell
+must be clearly defined by a length of rope that has been laid on the ground
+with the ends overlapping. The ends cannot be tied together or secured in any
+way, and the rope in general cannot be secured or bound in place or the spell
+fails (see the [Spell Failure](#spell-failure) caveat). Only one spell may be
+cast with a particular rope at a given time, although after the spell ends, a
+different spell may be cast with that rope. The rope does not need to be laid
+down in a circular pattern. Although a given circle spell may have a specific
+way of being broken, all circle spells are broken if the rope is jostled enough
+to move the ends apart by a character able to cross it. Any circle spell can be
+suspended by the 4th circle spell [Disrupt](#disrupt). It is the PC's
+responsibility to know what the [Disrupt](#disrupt) spell is, how to recognize
+it, and how to respond to it.
+
+### Compulsions ### {#compulsions}
+
+Some spells are able to magically compel a character to act in a way the player
+would prefer they did not. Compulsions can be ignored if they are humiliating or
+exceedingly difficult commands such as "Kiss my feet" or "Move that wall ten
+feet to the left." They also cannot violate OOC mundane laws or ethical codes.
+They may not force a spellcaster to break their weapon restrictions.
+Additionally, if the character has been turned undead, they cannot be compelled
+to communicate knowledge gained before they were made undead.
+
+### Enchanted Beings ### {#enchanted-beings}
+
+All spellcasters, undead, and certain creatures are considered to be enchanted
+beings. Normal fighters are only enchanted beings if under the effect of certain
+spells, as per the [Undead Caveat](#undead-caveat). Enchanted beings are
+affected by a certain number of spells, while non-enchanted beings are not.
+These spells include [Circle of Protection](#circle-of-protection) and [Ward:
+Enchanted Beings](#ward-enchanted-beings). By definition, any creature
+considered undead is an enchanted being.
+
+### Enchanted Items ### {#enchanted-items}
+
+Some spells create or enchant items, or are enhancements that affect players.
+These spells create magical effects, but are not potent enough for the items
+bearer or the target of the enchantment to be considered an Enchanted Being, nor
+is their magic potent enough for the item to be affected by the spell [Circle of
+Protection](#circle-of-protection) once they are cast. If the MC of these spells
+are disenchanted (through the spells [Disenchant](#disenchant) or the [Strange
+Brew: Potion of Disenchant](#potion-of-disenchant) option) the spell will end,
+rendering the MC inert. Magic items are not covered by the Enchanted Items
+Caveat.
+
+### Potions ### {#potions-caveat}
+
+A spellcaster who learns [Alchemy](#alchemy) (not [Create
+Poison](#create-poison)) must have a page in their spellbook listing the sigils
+that they will use to label potions. Each type of potion they can make, except
+for poisons, must have a unique, distinguishable sigil. When a potion that isn’t
+a poison is made, the spellcaster must put their legible signature, the
+appropriate sigil, and the date upon the container. Once created, all potions
+are considered stealable items. A potion can be a represented by a liquid,
+lotion, elixir, magical food, or anything else, as long as it is safe to be
+administered in a combat situation. Potions must be directly applied to the
+recipient. They may not be thrown, dropped, or remotely applied in any manner.
+The spellcaster need not be present in order to use their potions.
+
+Potions take a 60 second process called Brewing to be cast. At the beginning of
+an event, the spellcaster must describe in general terms their process of
+brewing. An alchemist may brew as many potions as their spells allow during the
+same 60 seconds. If they wish to create more later, they must begin the process
+again. If the alchemist is interrupted while brewing, neither castings nor
+Alchemy points are lost, but the potions will not be made, and they must start
+over again in order to make any potions. Although not required, use of
+additional props or role-playing is encouraged for this process.
+
+No potion created by a player can carry over from one event to another; it
+expires at the end of the event at which it is cast. The PC may choose whether
+or not to further limit the lifespan of a potion when it is brewed by writing a
+distinct expiration time among the required spell information on the container.
+Any potions lacking a specified expiration time last until the end of the event.
+
+### Regeneration ### {#regeneration-caveat}
+
+Some spells grant the ability to regenerate. When this ability is triggered (by
+death, being wounded, etc.), the target's wound(s) begin to heal. Until the
+specified amount of time has passed, this grants no benefit. A blow to any kill
+location on a dead body will cause a regeneration count to reset no matter where
+the killing blow was inflicted. Impaling stops regeneration; the count resets
+when the weapon is removed. Regenerating from death heals all healable wounds on
+the body. If examined by another person, wounds can be seen to be regenerating.
+Regeneration that brings a character back from death or scalping takes 120
+seconds. If you are [diseased](#disease), it takes twice as long to regenerate.
+You may only be under the effects of one basic regeneration and one advanced
+regeneration at a time. If more than one source is causing you to regenerate,
+you may choose which of those spells is causing you to regenerate. A
+regeneration will only work on someone who is scalped if the spell directly
+states that it can.
+
+### Basic Regeneration ### {#basic-regeneration}
+
+A basic regeneration is a regeneration from death where the regeneration begins
+when the target dies (or upon casting the spell if the target is already dead.)
+The effect is considered used if the target is raised before their regeneration
+is complete.
+
+### Advanced Regeneration ### {#advanced-regeneration}
+
+An advanced regeneration is a regeneration from death or scalping which begins
+when the character dies (or is scalped if it brings a character back from
+scalping). Each time they die, the spellcaster may choose to double the length
+of their regeneration (to 240 seconds, or 480 if diseased). The regeneration is
+not considered used if the target is raised before their regeneration is
+complete.
+
+### Spell Sash ### {#spell-sash}
+
+Some spells require a Spell Sash be worn to signify that a specific spell is
+affecting the wearer. A Spell Sash may be constructed as a sash, a tabard, or a
+belt favor. A Spell Sash must have the name of the spell clearly written on it.
+Putting the Spell Sash on the target of the spell, or touching it if the target
+is already wearing it, is considered to be an Active Component of the spell. A
+Spell Sash is not stealable, and should stay on the target of the spell until
+the spell is ended, at which time it is removed and returned to the caster at
+the earliest convenient time. Either the caster or the target may choose to end
+the spell by removing the Spell Sash, and it is also ended early if the Spell
+Sash is disenchanted (see [Disenchant](#disenchant)). The Spell Sash must be
+worn in such a way that another player standing 5 feet in front of them can
+recognise it, and may not be covered unless the majority of their body is
+covered, such as by wearing a concealing cloak.
+
+### Spell Failure ### {#spell-failure}
+
+Some spells have fail conditions in their description. Any spell that fails due
+to its fail condition expends the casting of that spell.
+
+### Suspension ### {#suspension}
+
+While a spell is suspended, the spell has no effect and does not function until
+the suspension ends. In addition, a suspended spell can be ended any way it
+normally could. It is the spellcaster’s responsibility to notify anyone else who
+is affected by this (such as any players carrying potions that the spellcaster
+created). When the suspension ends, any spell which has not already ended will
+resume functioning as per normal.
+
+### Undead ### {#undead}
+
+Some spells will make a recipient undead. When the spell is cast, the
+spellcaster must explain to the target what it means to be undead. All undead
+are affected by the spells: [Circle of Protection](#circle-of-protection),
+[Ward: Enchanted Beings](#ward-enchanted-beings), and [Ward:
+Undead](#ward-undead). A PC will remember what happened to them while they were
+undead. While undead the PC should have the spellcaster’s best intentions in
+mind. A PC may be raised as undead if they are [diseased](#disease), but this
+does not cure them of the disease.
+
+### Walking Dead ### {#walking-dead}
+
+The spells [Beckon Corpse](#beckon-corpse) and [Zombie Walk](#zombie-walk)
+enchant a corpse to walk without either returning them to life or being fully
+animated as undead. A corpse under these effects must move at a walking pace
+with their hands above their heads to their destination as dictated by the
+spell.
+
+They should keep any items on them that they would retain if dragged, whether or
+not the items are stealable. If anyone directly interferes with their movement
+or attacks them, they fall to the ground and the effect ends. The Walking Dead
+cannot take any actions other than walking. They may not attack, search other
+bodies, cast spells, pick up objects, use magic items, drink potions, or perform
+any other action aside from movement. The effect does not stop regeneration or
+other methods of returning to life or becoming fully animated from occurring.
+Becoming alive or fully animated as undead ends the Walking Dead effect. Corpses
+under these effects are considered to be undead (see the [Undead
+Caveat](#undead)).
+
+### Wards ### {#wards}
+
+All Ward spells are also Chanting spells (see the [Chanting Caveat](#chanting)).
+Ward spells affect a specific type of creature listed in the name of the Ward.
+When active, a Ward spell keeps the spellcaster from being attacked by creatures
+affected by that spell. A Ward spell affects creatures in front of the
+spellcaster, limited by a 180 degree hemisphere extending from shoulder to
+shoulder and outwards from the chest. The Ward will not keep the targeted
+creature(s) from walking around the spellcaster to attack others nearby. If the
+Ward affects them, the targeted creature(s) must stay approximately five feet
+away from the spellcaster, but need not retreat if the spellcaster advances upon
+them. To cast a Ward, the spellcaster must hold their spell focus out toward the
+targeted creatures while repeating the verbal. The verbal should make it clear
+what creatures are affected by the Ward. For example, "Stay back undead. Stay
+back undead. Stay back undead. Shoo," would be an appropriate verbal for the
+[Ward: Undead](#ward-undead) spell. This spell will work for as long as the
+spellcaster holds out the focus and keeps repeating the verbal. The people
+playing the targeted creatures must be able to hear what the spellcaster is
+saying, so it is up to the spellcaster to clearly and loudly chant their verbal.
+While casting this spell, the spellcaster may not attack the targeted creatures.
+A being that looks like it should be a targeted creature may not be (or may be
+immune to the Ward). It is still the responsibility of the spellcaster to take
+any and all weapon blows that hit them, even if the blows are from a creature
+they believe should be affected by the Ward.
+
+### Weapon Calls ### {#weapon-calls}
+
+Each Weapon Call spell has a VC or AC which prepares the weapon with the special
+combat call, using a casting of the spell. The casting is spent if the blow
+lands an attack to a legal hit location. Otherwise, upon a parry or a miss, only
+the preparation is lost and the use remains. If you are unsure that the blow
+landed, you must assume that it did. The spellcaster cannot cast a different
+Weapon Call spell on a currently enchanted weapon until the first spell has been
+discharged. The spellcaster's weapon may not be used by anyone else and still
+retain the enchanted status. If someone other than the spellcaster swings the
+prepared weapon, the preparation is lost, and must be reapplied.
+
+## 6.5: Grandfathering ## {#grandfathering}
+
+For the 2018 year only, all characters who were in existence (first attended an
+event) before February 25th, 2018 are allowed to have up to 15 spells, making a
+legal build following the rules of the current Omnibus. At the first event that
+their PC attends in the 2018 season where the Omnibus is available, they must
+get their spellbook checked in and signed by the Event Holder or their
+designated Magic Marshal(s). This signature counts for the signature
+requirements for all spells the PC grandfathers at this event.
+
+All spells known after grandfathering may be added to the spellcaster’s “Spell
+Mastery” section, in addition to the list they had before grandfathering (if
+any).
+
+## 6.6: The Spells ## {#the-spells}
