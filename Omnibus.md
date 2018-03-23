@@ -1430,7 +1430,7 @@ other characters or discovered in a search. Other information written in
 spellbooks may be read by others, at the owner's discretion, such as rune sets,
 history, or lore.
 
-A player may choose or need to replace their character's spellbook. This could
+A player may choose to or need to replace their character's spellbook. This could
 be due to such situations as loss, damage, illegibility, or a simple desire to
 improve it. The player should create a new spellbook with contents as close as
 possible to the prior one. In the case of swapping out an old spellbook which is
