@@ -1380,3 +1380,190 @@ armor) for each hit location. They are not considered enchanted beings unless
 stated in the [Enchanted Beings Caveat](#enchanted-beings).
 
 ## 5.4: Being a Realms Spellcaster ## {#being-a-realms-spellcaster}
+
+### Basics ###
+
+The magic system is based on a simple path setup. There are many different paths
+available to a spellcaster, with each path consisting of a list of spells. A
+spellcaster may choose to take as many as three paths of spells as they
+progress, with weapon use becoming more restricted as the number of paths
+learned increases. Being a spellcaster requires two things: a spellbook and
+knowledge of the magic system.
+
+### Spellbooks ###
+
+All spellcasters must have a spellbook, which records details of the spells the
+spellcaster knows. It is a marshaling tool and cannot be stolen from the PC. A
+spellcaster must have their spellbook on their person in order to cast spells.
+
+* The beginning of each spellbook must have the spellcaster's IC and OOC name,
+  their current weapon restriction, whether the spellcaster wears armor or not,
+  and whether the spellbook is IC or OOC (see below).
+* Next, the spellbook must have a listing of each spell the character has
+  learned, in order; each spell's circle; the date each spell was learned; and
+  a note if any spell is unlearned.
+* The spellbook must have a description of each spell known - including specific
+  components learned for each spell - to which the spellcaster may refer as
+  needed during play.
+* Lastly, the spellbook must list who taught the spell to the spellcaster on
+  either the page of the spell’s description or the spell list.
+
+Spellcasters may have a Spell Mastery section at the end of their spellbook. The
+Spell Mastery section is a list of spells which the spellcaster has learned
+during their PC's lifetime. An entry in this list includes the spell's name, who
+taught the spell to the spellcaster, and the date it was learned. Spells in this
+list cannot be cast, unless they are currently in a spellcaster's path.
+
+Spellbooks may be declared IC or OOC, and so noted on the title page ("IC" or
+"OOC" in large, clearly written letters). Any change in a spellbook's IC or OOC
+status must take place between events, but requires no particular time to make
+any such change.
+
+If a spellbook is declared IC, it can be read by other characters, and found and
+perused in a search. Spellcasters have no option to refuse to reveal their IC
+spellbooks, provided they are legally found in a search of the spellcaster's
+person.
+
+If a spellbook is declared OOC, the information summarized above is OOC
+information only and exists solely as a marshaling tool. It cannot be read by
+other characters or discovered in a search. Other information written in
+spellbooks may be read by others, at the owner's discretion, such as rune sets,
+history, or lore.
+
+A player may choose or need to replace their character's spellbook. This could
+be due to such situations as loss, damage, illegibility, or a simple desire to
+improve it. The player should create a new spellbook with contents as close as
+possible to the prior one. In the case of swapping out an old spellbook which is
+still available, the required information in it must be copied over to the new
+one. In the case of the old spellbook being unavailable or unreadable, then the
+player must make their best effort to recreate the information in the original.
+At the next event where they play that character, they must inform the Event
+Holder or Magic Marshal and have it inspected. At the beginning of the
+spellbook, where their names and weapon restriction is written, they should note
+that they are replacing their spellbook along with the date and the signature of
+the inspecting Event Holder or Magic Marshal.
+
+In all cases, spellbooks remain non-stealable items.
+
+### Knowledge of the Magic System ###
+
+All spellcasters are responsible for knowing how the magic system works,
+specifically the spells they can cast. A spellcaster who misuses their spells is
+not allowed to claim ignorance as an excuse.
+
+### Spell Resets ###
+
+During some Realms events, you may be told a spell reset has occurred. This
+means some portion of your magical resources have been restored to your PC. The
+specific effects of a spell reset will change from event to event, so be sure to
+ask the EH or MM for details.
+
+### Checking In ###
+
+As mentioned previously, a spellcaster must check in their spellbook with the EH
+or the appointed MM before using or learning spells (see [Section 1.4: Attending
+an Event](#attending-an-event) for more details).
+
+### Weapon Restrictions and Magic ###
+
+Weapon restrictions are a matter of game balance. See below:
+
++----------+----------+--------------------+--------------------+--------------------+
+| Level    | Paths    | Single Weapon or   | Florentine, Weapon | Bow or Javelin     |
+|          |          | Shield             | & Shield           |                    |
++==========+==========+====================+====================+====================+
+| Light    | 1 Path   | 4'6" maximum       | 5' combined length | Allowed            |
++----------+----------+--------------------+--------------------+--------------------+
+| Medial   | 2 Paths  | 3' maximum         | 3'6" combined      | Allowed            |
+|          |          |                    | length             |                    |
++----------+----------+--------------------+--------------------+--------------------+
+| Severe   | 3 Paths  | 18" maximum        | Not allowed        | Not allowed        |
++----------+----------+--------------------+--------------------+--------------------+
+
+Table: Weapon Restriction Levels
+
+Your weapon restriction changes the moment you learn an additional path of
+magic. Spellcasters starting out know only one path (as they only know a single
+spell), and thus their restriction is Light.
+
+_For example:_ Roderick is currently a one-path with five spells. He decides
+that using a bow and having more magic is more important than his
+hand-and-a-half, so he decides to keep learning spells. As soon as he learns his
+6th spell, his restriction changes over to being Medial.
+
+### Breaking Weapon Restriction ### {#breaking-weapon-restriction}
+
+A spellcaster may carry any weaponry they want, as long as they don't wield
+them. In this context, wield means to make use of the weapon in any way,
+including hitting someone or blocking a blow, whether intentional or not. To
+wield a weapon outside of your weapon restriction is called "breaking weapon
+restriction." (See [Wielding Weapons](#wielding-weapons) in [Section 3.7: Weapon
+Rules](#weapon-rules).
+
+If a spellcaster purposely breaks their weapon restriction, they suffer the
+consequences of their actions. They immediately lose all of their spells and
+become a fighter. Any lingering effects, such as [Circle of
+Protection](#circle-of-protection) (but not a [Circle of
+Healing](#circle-of-healing) or [Mystic Forge](#mystic-forge)), last until
+broken or when spells next reset before going away. They are no longer a
+spellcaster, and function as a non-spellcaster in all ways for a minimum of one
+year. After that year is over, they may then decide to return to being a
+spellcaster, but must start over from scratch.
+
+If they break their weapon restriction without realizing it, such as a blow
+being blocked by a weapon they are carrying for a friend, they have the option
+of either the previous penalty or taking the blow that was blocked. This
+decision must be made immediately.
+
+### Armor ###
+
+Armor restrictions are a matter of game balance. Spellcasters may only use light
+armor (1-point) but at a cost to wear it. See below:
+
++----------+----------+--------------------+
+| Level    | Paths    | Cost               |
++==========+==========+====================+
+| Light    | 1        | Free               |
++----------+----------+--------------------+
+| Medial   | 2        | Top spell in each  |
+|          |          | path               |
++----------+----------+--------------------+
+| Severe   | 3        | Top spell in each  |
+|          |          | path               |
++----------+----------+--------------------+
+
+For example, a spellcaster with two paths would be able to have 1st through 4th
+and 2nd through 5th, and call armor. This may only be done once; you cannot
+sacrifice the two highest spells of each path in order to be able to wear heavy
+armor. A spellcaster may choose to start their spellcasting career with this
+ability, in which case it must be noted in their spellbook. If not, they must
+spend one event without learning a spell for each path they know in order to
+gain the ability to wear armor. Similarly, it takes one event without learning a
+spell or changing weapon restrictions to give up wearing armor and regain the
+ability to learn their sacrificed spells.
+
+If a Light restriction spellcaster learns more spells and becomes a Medial
+restriction spellcaster, upon learning their first spell in their second path,
+they must choose to either lose the ability to wear armor or their 5th circle
+spell in their first path.
+
+A spellcaster who uses armor (calls "Armor" in response to a blow) in violation
+of their armor restriction is immediately faced with the same consequences as
+one who has broken their weapon restriction, and should refer to that section
+for details.
+
+## 5.5: Multiple Characters ## {#multiple-characters}
+
+You may have more than one character in this game. However, you may only play
+one PC per event unless you have EH permission to play multiple characters.
+
+## 5.6: Knights and Knightly Powers ## {#knights-and-knightly-powers}
+
+There are many knighthoods in the Realms. It is a great honour to be appointed
+as a knight, and sometimes this honour comes with special powers. For their
+service to the game, a Knight of the Eternal Flame may, once per calendar year,
+call "Knight" to protect themselves from one attack. A Knight of the Realms is
+allowed to do this once per event. Event Holders may choose to grant powers to
+members of other knighthoods.
+
+# 6: Magic in the Realms # {#magic-in-the-realms}
