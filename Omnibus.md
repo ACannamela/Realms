@@ -1520,17 +1520,15 @@ decision must be made immediately.
 Armor restrictions are a matter of game balance. Spellcasters may only use light
 armor (1-point) but at a cost to wear it. See below:
 
-+----------+----------+--------------------+
-| Level    | Paths    | Cost               |
-+==========+==========+====================+
-| Light    | 1        | Free               |
-+----------+----------+--------------------+
-| Medial   | 2        | Top spell in each  |
-|          |          | path               |
-+----------+----------+--------------------+
-| Severe   | 3        | Top spell in each  |
-|          |          | path               |
-+----------+----------+--------------------+
++--------+-------+------------------------+
+| Level  | Paths | Cost                   |
++========+=======+========================+
+| Light  | 1     | Free                   |
++--------+-------+------------------------+
+| Medial | 2     | Top spell in each path |
++--------+-------+------------------------+
+| Severe | 3     | Top spell in each path |
++--------+-------+------------------------+
 
 For example, a spellcaster with two paths would be able to have 1st through 4th
 and 2nd through 5th, and call armor. This may only be done once; you cannot
