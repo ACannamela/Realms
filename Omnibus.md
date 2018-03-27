@@ -1430,15 +1430,15 @@ other characters or discovered in a search. Other information written in
 spellbooks may be read by others, at the owner's discretion, such as rune sets,
 history, or lore.
 
-A player may choose or need to replace their character's spellbook. This could
-be due to such situations as loss, damage, illegibility, or a simple desire to
-improve it. The player should create a new spellbook with contents as close as
-possible to the prior one. In the case of swapping out an old spellbook which is
-still available, the required information in it must be copied over to the new
-one. In the case of the old spellbook being unavailable or unreadable, then the
-player must make their best effort to recreate the information in the original.
-At the next event where they play that character, they must inform the Event
-Holder or Magic Marshal and have it inspected. At the beginning of the
+A player may choose to or need to replace their character's spellbook. This
+could be due to such situations as loss, damage, illegibility, or a simple
+desire to improve it. The player should create a new spellbook with contents as
+close as possible to the prior one. In the case of swapping out an old spellbook
+which is still available, the required information in it must be copied over to
+the new one. In the case of the old spellbook being unavailable or unreadable,
+then the player must make their best effort to recreate the information in the
+original. At the next event where they play that character, they must inform the
+Event Holder or Magic Marshal and have it inspected. At the beginning of the
 spellbook, where their names and weapon restriction is written, they should note
 that they are replacing their spellbook along with the date and the signature of
 the inspecting Event Holder or Magic Marshal.
