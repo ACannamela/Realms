@@ -2189,3 +2189,4 @@ Mastery” section, in addition to the list they had before grandfathering (if
 any).
 
 ## 6.6: The Spells ## {#the-spells}
+### Spell Descriptions ###
