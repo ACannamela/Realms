@@ -3215,6 +3215,7 @@ As an Event Holder you are expected to:
 
 Throwing a legal event gives an EH certain privileges and responsibilities
 above and beyond a normal player.
+
 * To validate your event you must confirm it electronically with the official
   Event List Administrator within one month of the date of the event. Also
   within that month, you must also send a summary of reports of rules
@@ -3228,7 +3229,7 @@ above and beyond a normal player.
   item does not need to be distributed to players at that time, but an EH that
   does not designate a magic item for an event within one month forever loses
   the opportunity to release an item for the event (see
-    [Section 7.4: Magic Item Rules](#magic-item-rules) below).
+  [Section 7.4: Magic Item Rules](#magic-item-rules) below).
 * As an EH you qualify to attend the Event Holders' Council meeting for the
   year following your event (see
   [Section 7.5: The Event-Holders' Council](#the-event-holders-council) below).
@@ -3239,7 +3240,7 @@ The Arbitration Committee is a group of five members and two alternates
 nominated and elected yearly at the EHC that seeks to resolve issues by
 speaking or meeting with the affected individuals and, in the case where
 actions are detrimental to the community, levy penalties against individuals.
-The Arbitration Committee can be reached at arbitration@lists.realmsnet.net.
+The Arbitration Committee can be reached at <arbitration@lists.realmsnet.net>.
 
 When individuals are found responsible for breaking rules by a simple majority
 of the Arbitration Committee, the committee may levy punishment consistent
@@ -3340,11 +3341,11 @@ or reported by a character's player for their own character.
 
 **Event List Administrator:** Ian Pushee (<bright@giantsquid.net>). Responsible
 for maintaining an official list of events. The list is available online at
-http://www.realmsnet.net.
+<http://www.realmsnet.net>.
 
 **Keeper of the List of Realms Magic Items:** Neil Tozier (<iamtmib@gmail.com>,
 603-689-5298) Responsible for maintaining an official list of Realms Magic
-Items. The list is available to EHs online at http://www.realmsnet.net.
+Items. The list is available to EHs online at <http://www.realmsnet.net>.
 
 **Players' Meeting and Event Holders' Council Organizers:** John Berrini
 (<SgtBerrini@gmail.com>, 603-398-6352) and Neil Tozier. Responsible for
